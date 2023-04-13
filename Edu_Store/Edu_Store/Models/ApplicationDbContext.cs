@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace Edu_Store.Data
+namespace Edu_Store.Models
 {
     public class ApplicationDbContext : IdentityDbContext
     {
