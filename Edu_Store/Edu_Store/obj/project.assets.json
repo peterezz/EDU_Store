@@ -3907,19 +3907,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hp 2022\\.nuget\\packages\\": {}
+    "C:\\Users\\dubai\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Demo Projects\\ITI\\Education app store\\EDU_Store\\Edu_Store\\Edu_Store\\Edu_Store.csproj",
+      "projectUniqueName": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\Edu_Store.csproj",
       "projectName": "Edu_Store",
-      "projectPath": "E:\\Demo Projects\\ITI\\Education app store\\EDU_Store\\Edu_Store\\Edu_Store\\Edu_Store.csproj",
-      "packagesPath": "C:\\Users\\hp 2022\\.nuget\\packages\\",
-      "outputPath": "E:\\Demo Projects\\ITI\\Education app store\\EDU_Store\\Edu_Store\\Edu_Store\\obj\\",
+      "projectPath": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\Edu_Store.csproj",
+      "packagesPath": "C:\\Users\\dubai\\.nuget\\packages\\",
+      "outputPath": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hp 2022\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dubai\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
