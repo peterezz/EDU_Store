@@ -2,21 +2,17 @@
 
 namespace Edu_Store.Models
 {
-    public enum Gender
+    public class Teacher
     {
-        Male, Female
-    }
-    public class Student
-    {
-        [Key] public int StudentID { get; set; }
+        [Key] public int TeacherID { get; set; }
 
-        [Required(ErrorMessage ="Name is required")]
+        [Required(ErrorMessage = "Name is required")]
         [StringLength(50)]
         public required string Name { get; set; }
-        
+
         [Required]
         [StringLength(50)]
-        [DataType(DataType.EmailAddress,ErrorMessage ="Email is required")]
+        [DataType(DataType.EmailAddress, ErrorMessage = "Email is required")]
         public required string Email { get; set; }
 
         [Required]
@@ -29,8 +25,7 @@ namespace Edu_Store.Models
 
         [EnumDataType(typeof(Gender))]
         public Gender? Gender { get; set; }
-        public ICollection<StudentCourse>? StudentCourses { get; set; }
 
-        //public ICollection<Course>? Courses { get; set; }
+        public ICollection<Course> Courses { get; set; } = new HashSet<Course>();
     }
 }
