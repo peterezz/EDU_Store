@@ -1,931 +1,931 @@
 {
   "Files": [
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Edu_Store.bundle.scp.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Edu_Store.bundle.scp.css",
       "PackagePath": "staticwebassets\\Edu_Store.bundle.scp.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\AjaxLoader.html",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\AjaxLoader.html",
       "PackagePath": "staticwebassets\\css\\assets\\AjaxLoader.html"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\Flaticon.html",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\Flaticon.html",
       "PackagePath": "staticwebassets\\css\\assets\\Flaticon.html"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\animate.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\animate.css",
       "PackagePath": "staticwebassets\\css\\assets\\animate.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\assets\\coloredbg.html",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\assets\\coloredbg.html",
       "PackagePath": "staticwebassets\\css\\assets\\assets\\coloredbg.html"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\assets\\gridtile.html",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\assets\\gridtile.html",
       "PackagePath": "staticwebassets\\css\\assets\\assets\\gridtile.html"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\assets\\gridtile_3x3.html",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\assets\\gridtile_3x3.html",
       "PackagePath": "staticwebassets\\css\\assets\\assets\\gridtile_3x3.html"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\assets\\gridtile_3x3_white.html",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\assets\\gridtile_3x3_white.html",
       "PackagePath": "staticwebassets\\css\\assets\\assets\\gridtile_3x3_white.html"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\assets\\gridtile_white.html",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\assets\\gridtile_white.html",
       "PackagePath": "staticwebassets\\css\\assets\\assets\\gridtile_white.html"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\bootstrap.min.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\assets\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\flaticon.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\flaticon.css",
       "PackagePath": "staticwebassets\\css\\assets\\flaticon.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\font-awesome.min.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\css\\assets\\font-awesome.min.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\grabbing.html",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\grabbing.html",
       "PackagePath": "staticwebassets\\css\\assets\\grabbing.html"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\magnific-popup.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\magnific-popup.css",
       "PackagePath": "staticwebassets\\css\\assets\\magnific-popup.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\meanmenu.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\meanmenu.css",
       "PackagePath": "staticwebassets\\css\\assets\\meanmenu.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\owl.carousel.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\owl.carousel.css",
       "PackagePath": "staticwebassets\\css\\assets\\owl.carousel.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\owl.theme.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\owl.theme.css",
       "PackagePath": "staticwebassets\\css\\assets\\owl.theme.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\preloader.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\preloader.css",
       "PackagePath": "staticwebassets\\css\\assets\\preloader.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\revolution\\closedhand.html",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\revolution\\closedhand.html",
       "PackagePath": "staticwebassets\\css\\assets\\revolution\\closedhand.html"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\revolution\\layers.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\revolution\\layers.css",
       "PackagePath": "staticwebassets\\css\\assets\\revolution\\layers.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\revolution\\navigation.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\revolution\\navigation.css",
       "PackagePath": "staticwebassets\\css\\assets\\revolution\\navigation.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\revolution\\openhand.html",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\revolution\\openhand.html",
       "PackagePath": "staticwebassets\\css\\assets\\revolution\\openhand.html"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\revolution\\settings.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\revolution\\settings.css",
       "PackagePath": "staticwebassets\\css\\assets\\revolution\\settings.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\slick.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\assets\\slick.css",
       "PackagePath": "staticwebassets\\css\\assets\\slick.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\demo.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\demo.css",
       "PackagePath": "staticwebassets\\css\\demo.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\responsive.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\responsive.css",
       "PackagePath": "staticwebassets\\css\\responsive.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\site.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\style.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\favicon.ico",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-brands-400.eot",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.eot"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-brands-400.svg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-brands-400.svg",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.svg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-brands-400.woff",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-brands-400.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-brands-400d41d.eot",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-brands-400d41d.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400d41d.eot"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-regular-400.eot",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-regular-400.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.eot"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-regular-400.svg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-regular-400.svg",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.svg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-regular-400.woff",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-regular-400.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-regular-400d41d.eot",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-regular-400d41d.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400d41d.eot"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-solid-900.eot",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-solid-900.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.eot"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-solid-900.svg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-solid-900.svg",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.svg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-solid-900.woff",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-solid-900.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-solid-900d41d.eot",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\fa-solid-900d41d.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900d41d.eot"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\flaticon\\Flaticon.eot",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\flaticon\\Flaticon.eot",
       "PackagePath": "staticwebassets\\fonts\\flaticon\\Flaticon.eot"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\flaticon\\Flaticon.svg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\flaticon\\Flaticon.svg",
       "PackagePath": "staticwebassets\\fonts\\flaticon\\Flaticon.svg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\flaticon\\Flaticon.ttf",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\flaticon\\Flaticon.ttf",
       "PackagePath": "staticwebassets\\fonts\\flaticon\\Flaticon.ttf"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\flaticon\\Flaticon.woff",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\flaticon\\Flaticon.woff",
       "PackagePath": "staticwebassets\\fonts\\flaticon\\Flaticon.woff"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\flaticon\\Flaticond41d.eot",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\flaticon\\Flaticond41d.eot",
       "PackagePath": "staticwebassets\\fonts\\flaticon\\Flaticond41d.eot"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\revicons\\revicons90c6.eot",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\revicons\\revicons90c6.eot",
       "PackagePath": "staticwebassets\\fonts\\revicons\\revicons90c6.eot"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\revicons\\revicons90c6.svg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\revicons\\revicons90c6.svg",
       "PackagePath": "staticwebassets\\fonts\\revicons\\revicons90c6.svg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\revicons\\revicons90c6.ttf",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\revicons\\revicons90c6.ttf",
       "PackagePath": "staticwebassets\\fonts\\revicons\\revicons90c6.ttf"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\revicons\\revicons90c6.woff",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\fonts\\revicons\\revicons90c6.woff",
       "PackagePath": "staticwebassets\\fonts\\revicons\\revicons90c6.woff"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\about_thinking.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\about_thinking.jpg",
       "PackagePath": "staticwebassets\\images\\banner\\about_thinking.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\about_us.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\about_us.png",
       "PackagePath": "staticwebassets\\images\\banner\\about_us.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\banner_1.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\banner_1.jpg",
       "PackagePath": "staticwebassets\\images\\banner\\banner_1.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\banner_2.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\banner_2.jpg",
       "PackagePath": "staticwebassets\\images\\banner\\banner_2.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\banner_3.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\banner_3.png",
       "PackagePath": "staticwebassets\\images\\banner\\banner_3.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\banner_4.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\banner_4.jpg",
       "PackagePath": "staticwebassets\\images\\banner\\banner_4.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\counter_bg.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\counter_bg.jpg",
       "PackagePath": "staticwebassets\\images\\banner\\counter_bg.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\inner_banner_1.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\inner_banner_1.jpg",
       "PackagePath": "staticwebassets\\images\\banner\\inner_banner_1.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\inner_banner_2.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\inner_banner_2.jpg",
       "PackagePath": "staticwebassets\\images\\banner\\inner_banner_2.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\inner_banner_3.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\inner_banner_3.jpg",
       "PackagePath": "staticwebassets\\images\\banner\\inner_banner_3.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\inner_banner_4.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\inner_banner_4.jpg",
       "PackagePath": "staticwebassets\\images\\banner\\inner_banner_4.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\inner_banner_5.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\inner_banner_5.jpg",
       "PackagePath": "staticwebassets\\images\\banner\\inner_banner_5.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\instructor.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\instructor.jpg",
       "PackagePath": "staticwebassets\\images\\banner\\instructor.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\learnstep.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\learnstep.jpg",
       "PackagePath": "staticwebassets\\images\\banner\\learnstep.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\map_shape.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\map_shape.png",
       "PackagePath": "staticwebassets\\images\\banner\\map_shape.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\phone_mockup.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\phone_mockup.png",
       "PackagePath": "staticwebassets\\images\\banner\\phone_mockup.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\teamgroup.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\teamgroup.png",
       "PackagePath": "staticwebassets\\images\\banner\\teamgroup.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\video_mockup.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\banner\\video_mockup.png",
       "PackagePath": "staticwebassets\\images\\banner\\video_mockup.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\blog\\blog3-1.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\blog\\blog3-1.jpg",
       "PackagePath": "staticwebassets\\images\\blog\\blog3-1.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\blog\\blog3-2.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\blog\\blog3-2.jpg",
       "PackagePath": "staticwebassets\\images\\blog\\blog3-2.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\blog\\blog3-3.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\blog\\blog3-3.jpg",
       "PackagePath": "staticwebassets\\images\\blog\\blog3-3.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\blog\\blog_1.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\blog\\blog_1.jpg",
       "PackagePath": "staticwebassets\\images\\blog\\blog_1.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\blog\\blog_2.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\blog\\blog_2.jpg",
       "PackagePath": "staticwebassets\\images\\blog\\blog_2.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\blog\\blog_3.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\blog\\blog_3.jpg",
       "PackagePath": "staticwebassets\\images\\blog\\blog_3.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\blog\\details_1.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\blog\\details_1.png",
       "PackagePath": "staticwebassets\\images\\blog\\details_1.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\blog\\details_2.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\blog\\details_2.png",
       "PackagePath": "staticwebassets\\images\\blog\\details_2.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\blog\\side_blog_1.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\blog\\side_blog_1.jpg",
       "PackagePath": "staticwebassets\\images\\blog\\side_blog_1.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\blog\\side_blog_2.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\blog\\side_blog_2.jpg",
       "PackagePath": "staticwebassets\\images\\blog\\side_blog_2.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\blog\\side_blog_3.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\blog\\side_blog_3.jpg",
       "PackagePath": "staticwebassets\\images\\blog\\side_blog_3.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\courses\\courses_1.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\courses\\courses_1.jpg",
       "PackagePath": "staticwebassets\\images\\courses\\courses_1.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\courses\\courses_2.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\courses\\courses_2.jpg",
       "PackagePath": "staticwebassets\\images\\courses\\courses_2.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\courses\\courses_3.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\courses\\courses_3.jpg",
       "PackagePath": "staticwebassets\\images\\courses\\courses_3.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\courses\\courses_4.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\courses\\courses_4.jpg",
       "PackagePath": "staticwebassets\\images\\courses\\courses_4.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\courses\\courses_5.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\courses\\courses_5.jpg",
       "PackagePath": "staticwebassets\\images\\courses\\courses_5.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\courses\\courses_6.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\courses\\courses_6.jpg",
       "PackagePath": "staticwebassets\\images\\courses\\courses_6.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\cursor.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\cursor.png",
       "PackagePath": "staticwebassets\\images\\cursor.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\events\\event_1.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\events\\event_1.jpg",
       "PackagePath": "staticwebassets\\images\\events\\event_1.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\events\\event_2.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\events\\event_2.jpg",
       "PackagePath": "staticwebassets\\images\\events\\event_2.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\events\\event_3.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\events\\event_3.jpg",
       "PackagePath": "staticwebassets\\images\\events\\event_3.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\favicon.ico",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\favicon.ico",
       "PackagePath": "staticwebassets\\images\\favicon.ico"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\features\\courses_provide_1.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\features\\courses_provide_1.jpg",
       "PackagePath": "staticwebassets\\images\\features\\courses_provide_1.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\features\\courses_provide_2.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\features\\courses_provide_2.jpg",
       "PackagePath": "staticwebassets\\images\\features\\courses_provide_2.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\features\\courses_provide_3.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\features\\courses_provide_3.jpg",
       "PackagePath": "staticwebassets\\images\\features\\courses_provide_3.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\features\\courses_provide_4.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\features\\courses_provide_4.jpg",
       "PackagePath": "staticwebassets\\images\\features\\courses_provide_4.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\features\\courses_provide_5.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\features\\courses_provide_5.jpg",
       "PackagePath": "staticwebassets\\images\\features\\courses_provide_5.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\features\\courses_provide_6.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\features\\courses_provide_6.jpg",
       "PackagePath": "staticwebassets\\images\\features\\courses_provide_6.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\features\\features_1.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\features\\features_1.jpg",
       "PackagePath": "staticwebassets\\images\\features\\features_1.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\features\\features_2.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\features\\features_2.jpg",
       "PackagePath": "staticwebassets\\images\\features\\features_2.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\features\\features_2_1.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\features\\features_2_1.jpg",
       "PackagePath": "staticwebassets\\images\\features\\features_2_1.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\features\\features_2_2.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\features\\features_2_2.jpg",
       "PackagePath": "staticwebassets\\images\\features\\features_2_2.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\features\\features_2_3.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\features\\features_2_3.jpg",
       "PackagePath": "staticwebassets\\images\\features\\features_2_3.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\features\\features_3.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\features\\features_3.jpg",
       "PackagePath": "staticwebassets\\images\\features\\features_3.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\icons\\app_store.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\icons\\app_store.png",
       "PackagePath": "staticwebassets\\images\\icons\\app_store.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\icons\\play_store.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\icons\\play_store.png",
       "PackagePath": "staticwebassets\\images\\icons\\play_store.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\loader.gif",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\loader.gif",
       "PackagePath": "staticwebassets\\images\\loader.gif"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\logo.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\logo.png",
       "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\logo2.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\logo2.png",
       "PackagePath": "staticwebassets\\images\\logo2.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\logos\\logo-1.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\logos\\logo-1.png",
       "PackagePath": "staticwebassets\\images\\logos\\logo-1.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\logos\\logo-2.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\logos\\logo-2.png",
       "PackagePath": "staticwebassets\\images\\logos\\logo-2.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\logos\\logo-3.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\logos\\logo-3.png",
       "PackagePath": "staticwebassets\\images\\logos\\logo-3.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\logos\\logo-4.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\logos\\logo-4.png",
       "PackagePath": "staticwebassets\\images\\logos\\logo-4.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\logos\\logo-5.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\logos\\logo-5.png",
       "PackagePath": "staticwebassets\\images\\logos\\logo-5.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\logos\\logo-6.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\logos\\logo-6.png",
       "PackagePath": "staticwebassets\\images\\logos\\logo-6.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\logos\\logo-7.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\logos\\logo-7.png",
       "PackagePath": "staticwebassets\\images\\logos\\logo-7.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\logos\\logo-8.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\logos\\logo-8.png",
       "PackagePath": "staticwebassets\\images\\logos\\logo-8.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\logos\\logo-9.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\logos\\logo-9.png",
       "PackagePath": "staticwebassets\\images\\logos\\logo-9.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\preloader.gif",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\preloader.gif",
       "PackagePath": "staticwebassets\\images\\preloader.gif"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\shapes\\bubble_shpe_1.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\shapes\\bubble_shpe_1.png",
       "PackagePath": "staticwebassets\\images\\shapes\\bubble_shpe_1.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\shapes\\bubble_shpe_2.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\shapes\\bubble_shpe_2.png",
       "PackagePath": "staticwebassets\\images\\shapes\\bubble_shpe_2.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\shapes\\footer_2.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\shapes\\footer_2.png",
       "PackagePath": "staticwebassets\\images\\shapes\\footer_2.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\shapes\\footer_bg_shpe_1.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\shapes\\footer_bg_shpe_1.png",
       "PackagePath": "staticwebassets\\images\\shapes\\footer_bg_shpe_1.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\shapes\\round_shpae_1.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\shapes\\round_shpae_1.png",
       "PackagePath": "staticwebassets\\images\\shapes\\round_shpae_1.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\shapes\\shape_bullet.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\shapes\\shape_bullet.png",
       "PackagePath": "staticwebassets\\images\\shapes\\shape_bullet.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\shapes\\shape_top.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\shapes\\shape_top.png",
       "PackagePath": "staticwebassets\\images\\shapes\\shape_top.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\shapes\\shape_top_red.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\shapes\\shape_top_red.png",
       "PackagePath": "staticwebassets\\images\\shapes\\shape_top_red.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\shapes\\team_shape.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\shapes\\team_shape.png",
       "PackagePath": "staticwebassets\\images\\shapes\\team_shape.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\shapes\\testimonial_2_shpe_1.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\shapes\\testimonial_2_shpe_1.png",
       "PackagePath": "staticwebassets\\images\\shapes\\testimonial_2_shpe_1.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\shapes\\testimonial_2_shpe_2.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\shapes\\testimonial_2_shpe_2.png",
       "PackagePath": "staticwebassets\\images\\shapes\\testimonial_2_shpe_2.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\shapes\\testimonial_2_shpe_3.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\shapes\\testimonial_2_shpe_3.png",
       "PackagePath": "staticwebassets\\images\\shapes\\testimonial_2_shpe_3.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\shapes\\video_1.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\shapes\\video_1.png",
       "PackagePath": "staticwebassets\\images\\shapes\\video_1.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\shapes\\video_2.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\shapes\\video_2.png",
       "PackagePath": "staticwebassets\\images\\shapes\\video_2.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\shapes\\waves.png",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\shapes\\waves.png",
       "PackagePath": "staticwebassets\\images\\shapes\\waves.png"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\team\\review_1.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\team\\review_1.jpg",
       "PackagePath": "staticwebassets\\images\\team\\review_1.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\team\\review_2.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\team\\review_2.jpg",
       "PackagePath": "staticwebassets\\images\\team\\review_2.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\team\\review_3.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\team\\review_3.jpg",
       "PackagePath": "staticwebassets\\images\\team\\review_3.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\team\\review_4.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\team\\review_4.jpg",
       "PackagePath": "staticwebassets\\images\\team\\review_4.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\team\\team_1.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\team\\team_1.jpg",
       "PackagePath": "staticwebassets\\images\\team\\team_1.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\team\\team_2.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\team\\team_2.jpg",
       "PackagePath": "staticwebassets\\images\\team\\team_2.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\team\\team_3.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\team\\team_3.jpg",
       "PackagePath": "staticwebassets\\images\\team\\team_3.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\team\\team_4.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\team\\team_4.jpg",
       "PackagePath": "staticwebassets\\images\\team\\team_4.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\team\\team_5.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\team\\team_5.jpg",
       "PackagePath": "staticwebassets\\images\\team\\team_5.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\team\\team_6.jpg",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\images\\team\\team_6.jpg",
       "PackagePath": "staticwebassets\\images\\team\\team_6.jpg"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\assets\\revolution\\extensions\\revolution.extension.actions.min.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\assets\\revolution\\extensions\\revolution.extension.actions.min.js",
       "PackagePath": "staticwebassets\\js\\assets\\revolution\\extensions\\revolution.extension.actions.min.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\assets\\revolution\\extensions\\revolution.extension.carousel.min.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\assets\\revolution\\extensions\\revolution.extension.carousel.min.js",
       "PackagePath": "staticwebassets\\js\\assets\\revolution\\extensions\\revolution.extension.carousel.min.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\assets\\revolution\\extensions\\revolution.extension.kenburn.min.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\assets\\revolution\\extensions\\revolution.extension.kenburn.min.js",
       "PackagePath": "staticwebassets\\js\\assets\\revolution\\extensions\\revolution.extension.kenburn.min.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\assets\\revolution\\extensions\\revolution.extension.layeranimation.min.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\assets\\revolution\\extensions\\revolution.extension.layeranimation.min.js",
       "PackagePath": "staticwebassets\\js\\assets\\revolution\\extensions\\revolution.extension.layeranimation.min.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\assets\\revolution\\extensions\\revolution.extension.migration.min.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\assets\\revolution\\extensions\\revolution.extension.migration.min.js",
       "PackagePath": "staticwebassets\\js\\assets\\revolution\\extensions\\revolution.extension.migration.min.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\assets\\revolution\\extensions\\revolution.extension.navigation.min.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\assets\\revolution\\extensions\\revolution.extension.navigation.min.js",
       "PackagePath": "staticwebassets\\js\\assets\\revolution\\extensions\\revolution.extension.navigation.min.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\assets\\revolution\\extensions\\revolution.extension.parallax.min.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\assets\\revolution\\extensions\\revolution.extension.parallax.min.js",
       "PackagePath": "staticwebassets\\js\\assets\\revolution\\extensions\\revolution.extension.parallax.min.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\assets\\revolution\\extensions\\revolution.extension.slideanims.min.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\assets\\revolution\\extensions\\revolution.extension.slideanims.min.js",
       "PackagePath": "staticwebassets\\js\\assets\\revolution\\extensions\\revolution.extension.slideanims.min.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\assets\\revolution\\extensions\\revolution.extension.video.min.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\assets\\revolution\\extensions\\revolution.extension.video.min.js",
       "PackagePath": "staticwebassets\\js\\assets\\revolution\\extensions\\revolution.extension.video.min.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\assets\\revolution\\jquery.themepunch.revolution.min.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\assets\\revolution\\jquery.themepunch.revolution.min.js",
       "PackagePath": "staticwebassets\\js\\assets\\revolution\\jquery.themepunch.revolution.min.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\assets\\revolution\\jquery.themepunch.tools.min.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\assets\\revolution\\jquery.themepunch.tools.min.js",
       "PackagePath": "staticwebassets\\js\\assets\\revolution\\jquery.themepunch.tools.min.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\assets\\revolution\\revolution.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\assets\\revolution\\revolution.js",
       "PackagePath": "staticwebassets\\js\\assets\\revolution\\revolution.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\bootstrap.min.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\custom.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\custom.js",
       "PackagePath": "staticwebassets\\js\\custom.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\demo.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\demo.js",
       "PackagePath": "staticwebassets\\js\\demo.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\jquery-3.2.1.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-3.2.1.min.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\jquery.counterup.min.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\jquery.counterup.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.counterup.min.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\jquery.magnific-popup.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\jquery.meanmenu.min.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\jquery.meanmenu.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.meanmenu.min.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\map-helper.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\map-helper.js",
       "PackagePath": "staticwebassets\\js\\map-helper.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\owl.carousel.min.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\page-smoth-scroll.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\page-smoth-scroll.js",
       "PackagePath": "staticwebassets\\js\\page-smoth-scroll.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\popper.min.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\popper.min.js",
       "PackagePath": "staticwebassets\\js\\popper.min.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\site.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\slick.min.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\slick.min.js",
       "PackagePath": "staticwebassets\\js\\slick.min.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\waypoints.min.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\waypoints.min.js",
       "PackagePath": "staticwebassets\\js\\waypoints.min.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\wow.min.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\js\\wow.min.js",
       "PackagePath": "staticwebassets\\js\\wow.min.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store-main\\Edu_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

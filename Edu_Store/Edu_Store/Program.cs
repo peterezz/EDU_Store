@@ -13,6 +13,15 @@ namespace Edu_Store
             // Add services to the container.
             #region MVC Service
             builder.Services.AddControllersWithViews( );
+            builder.Services.AddAuthentication().AddGoogle(options =>
+            {
+                options.ClientId = "591786662170-7etbht75kl1rn8in3ahhicg4mi9o3djd.apps.googleusercontent.com";
+                options.ClientSecret = "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";
+            })/*.AddFacebook(options =>
+            {
+                options.ClientId = "1197300410930086";
+                options.ClientSecret = "8a307a63f2b21878bba21eec1568b14a";
+            })*/;
             #endregion
 
             #region Default DbContext service
