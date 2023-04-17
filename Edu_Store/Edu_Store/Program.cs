@@ -19,9 +19,15 @@ namespace Edu_Store
                 options.ClientSecret = "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";
             }).AddTwitter(options =>
             {
-                options.ConsumerKey= "SVB3VXFVWGcyaUg5NkdwSDZ2MFQ6MTpjaQ";
+                options.ConsumerKey = "SVB3VXFVWGcyaUg5NkdwSDZ2MFQ6MTpjaQ";
                 options.ConsumerSecret = "xzrwsMPywVJBFNqB3VavwuGWHnERcapW0Ww0Q_xkWIntElCwaH";
             });
+            //.AddFacebook(options =>
+            //{
+            //    options.AppId = "611643087536377";
+            //    options.AppSecret = "7fdb754495764c6c8f7e84b180d42a22";
+            //})
+            
             #endregion
 
             #region Default DbContext service
