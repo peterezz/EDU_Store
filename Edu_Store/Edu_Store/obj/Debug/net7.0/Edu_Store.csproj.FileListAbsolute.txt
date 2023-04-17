@@ -340,3 +340,4 @@ E:\ITI .Net\MVC\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.genrunt
 E:\ITI .Net\MVC\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\ref\Edu_Store.dll
 E:\ITI .Net\MVC\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Google.dll
 E:\ITI .Net\MVC\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+E:\ITI .Net\MVC\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Twitter.dll

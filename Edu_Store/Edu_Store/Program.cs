@@ -17,11 +17,11 @@ namespace Edu_Store
             {
                 options.ClientId = "591786662170-7etbht75kl1rn8in3ahhicg4mi9o3djd.apps.googleusercontent.com";
                 options.ClientSecret = "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";
-            })/*.AddFacebook(options =>
+            }).AddTwitter(options =>
             {
-                options.ClientId = "1197300410930086";
-                options.ClientSecret = "8a307a63f2b21878bba21eec1568b14a";
-            })*/;
+                options.ConsumerKey= "SVB3VXFVWGcyaUg5NkdwSDZ2MFQ6MTpjaQ";
+                options.ConsumerSecret = "xzrwsMPywVJBFNqB3VavwuGWHnERcapW0Ww0Q_xkWIntElCwaH";
+            });
             #endregion
 
             #region Default DbContext service
