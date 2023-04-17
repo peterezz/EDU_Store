@@ -340,6 +340,7 @@ E:\ITI .Net\MVC\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.genrunt
 E:\ITI .Net\MVC\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\ref\Edu_Store.dll
 E:\ITI .Net\MVC\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Google.dll
 E:\ITI .Net\MVC\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+<<<<<<< HEAD
 E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\appsettings.Development.json
 E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\appsettings.json
 E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Edu_Store.staticwebassets.runtime.json
@@ -427,3 +428,6 @@ E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7
 E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.pdb
 E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.genruntimeconfig.cache
 E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\ref\Edu_Store.dll
+=======
+E:\ITI .Net\MVC\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Twitter.dll
+>>>>>>> e43b60c77b4d0bd86577261cc2d66e96ca35ffc6
