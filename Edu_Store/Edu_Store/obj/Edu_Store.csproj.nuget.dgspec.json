@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\Edu_Store.csproj": {}
+    "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store\\Edu_Store\\Edu_Store\\Edu_Store.csproj": {}
   },
   "projects": {
-    "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\Edu_Store.csproj": {
+    "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store\\Edu_Store\\Edu_Store\\Edu_Store.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\Edu_Store.csproj",
+        "projectUniqueName": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store\\Edu_Store\\Edu_Store\\Edu_Store.csproj",
         "projectName": "Edu_Store",
-        "projectPath": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\Edu_Store.csproj",
-        "packagesPath": "C:\\Users\\Menna\\.nuget\\packages\\",
-        "outputPath": "E:\\ITI .Net\\MVC\\EDU_Store\\Edu_Store\\Edu_Store\\obj\\",
+        "projectPath": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store\\Edu_Store\\Edu_Store\\Edu_Store.csproj",
+        "packagesPath": "C:\\Users\\dubai\\.nuget\\packages\\",
+        "outputPath": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store\\Edu_Store\\Edu_Store\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Menna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dubai\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
