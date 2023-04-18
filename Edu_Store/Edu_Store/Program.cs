@@ -13,6 +13,7 @@ namespace Edu_Store
             // Add services to the container.
             #region MVC Service
             builder.Services.AddControllersWithViews( );
+            builder.Services.AddRazorPages( );
             builder.Services.AddAuthentication( ).AddGoogle( options =>
             {
                 options.ClientId = "591786662170-7etbht75kl1rn8in3ahhicg4mi9o3djd.apps.googleusercontent.com";
