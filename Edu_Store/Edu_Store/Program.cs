@@ -1,3 +1,4 @@
+using Edu_Store.Managers;
 using Edu_Store.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -27,6 +28,8 @@ namespace Edu_Store
             //    options.AppId = "611643087536377";
             //    options.AppSecret = "7fdb754495764c6c8f7e84b180d42a22";
             //})
+            builder.Services.AddScoped<TeacherManager>();
+            builder.Services.AddScoped<CourseManager>();
             
             #endregion
 

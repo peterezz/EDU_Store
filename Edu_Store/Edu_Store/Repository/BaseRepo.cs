@@ -69,10 +69,11 @@ namespace DataAccessLayer.Repository
         public void Edit( TEntity entity )
         {
 
-
+            
 
             DbContext.Entry( entity ).State = EntityState.Modified;
             DbContext.SaveChanges( );
+           
 
 
 

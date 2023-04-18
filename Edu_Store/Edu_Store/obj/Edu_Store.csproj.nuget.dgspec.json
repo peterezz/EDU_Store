@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store\\Edu_Store\\Edu_Store\\Edu_Store.csproj": {}
+    "F:\\iti\\Mvc_Project\\EDU_Store\\Edu_Store\\Edu_Store\\Edu_Store.csproj": {}
   },
   "projects": {
-    "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store\\Edu_Store\\Edu_Store\\Edu_Store.csproj": {
+    "F:\\iti\\Mvc_Project\\EDU_Store\\Edu_Store\\Edu_Store\\Edu_Store.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store\\Edu_Store\\Edu_Store\\Edu_Store.csproj",
+        "projectUniqueName": "F:\\iti\\Mvc_Project\\EDU_Store\\Edu_Store\\Edu_Store\\Edu_Store.csproj",
         "projectName": "Edu_Store",
-        "projectPath": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store\\Edu_Store\\Edu_Store\\Edu_Store.csproj",
-        "packagesPath": "C:\\Users\\dubai\\.nuget\\packages\\",
-        "outputPath": "E:\\I T I\\CU,net\\ASP.NET MVC\\PROJECT\\EDU_Store\\Edu_Store\\Edu_Store\\obj\\",
+        "projectPath": "F:\\iti\\Mvc_Project\\EDU_Store\\Edu_Store\\Edu_Store\\Edu_Store.csproj",
+        "packagesPath": "C:\\Users\\Roka Adel\\.nuget\\packages\\",
+        "outputPath": "F:\\iti\\Mvc_Project\\EDU_Store\\Edu_Store\\Edu_Store\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dubai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Roka Adel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -71,6 +71,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[7.0.4, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.5, )"
             }
           },
           "imports": [
@@ -92,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
