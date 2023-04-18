@@ -9,61 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Edu_Store
 build_property.RootNamespace = Edu_Store
-build_property.ProjectDir = F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\
+build_property.ProjectDir = E:\EDU_Store\Edu_Store\Edu_Store\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store
+build_property.MSBuildProjectDirectory = E:\EDU_Store\Edu_Store\Edu_Store
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/iti/Mvc_Project/EDU_Store/Edu_Store/Edu_Store/Areas/Identity/Pages/_ViewStart.cshtml]
+[E:/EDU_Store/Edu_Store/Edu_Store/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/iti/Mvc_Project/EDU_Store/Edu_Store/Edu_Store/Views/Course/Index.cshtml]
+[E:/EDU_Store/Edu_Store/Edu_Store/Views/Course/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/iti/Mvc_Project/EDU_Store/Edu_Store/Edu_Store/Views/Home/Index.cshtml]
+[E:/EDU_Store/Edu_Store/Edu_Store/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/iti/Mvc_Project/EDU_Store/Edu_Store/Edu_Store/Views/Home/Privacy.cshtml]
+[E:/EDU_Store/Edu_Store/Edu_Store/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/iti/Mvc_Project/EDU_Store/Edu_Store/Edu_Store/Views/Shared/Error.cshtml]
+[E:/EDU_Store/Edu_Store/Edu_Store/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/iti/Mvc_Project/EDU_Store/Edu_Store/Edu_Store/Views/Shared/_LoginPartial.cshtml]
+[E:/EDU_Store/Edu_Store/Edu_Store/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/iti/Mvc_Project/EDU_Store/Edu_Store/Edu_Store/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/EDU_Store/Edu_Store/Edu_Store/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/iti/Mvc_Project/EDU_Store/Edu_Store/Edu_Store/Views/Teacher/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[F:/iti/Mvc_Project/EDU_Store/Edu_Store/Edu_Store/Views/Teacher/MyProfile.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxNeVByb2ZpbGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[F:/iti/Mvc_Project/EDU_Store/Edu_Store/Edu_Store/Views/Teacher/UpdateProfile.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxVcGRhdGVQcm9maWxlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[F:/iti/Mvc_Project/EDU_Store/Edu_Store/Edu_Store/Views/_ViewImports.cshtml]
+[E:/EDU_Store/Edu_Store/Edu_Store/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/iti/Mvc_Project/EDU_Store/Edu_Store/Edu_Store/Views/_ViewStart.cshtml]
+[E:/EDU_Store/Edu_Store/Edu_Store/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/iti/Mvc_Project/EDU_Store/Edu_Store/Edu_Store/Views/Shared/_Layout.cshtml]
+[E:/EDU_Store/Edu_Store/Edu_Store/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-zdq8fb7cof

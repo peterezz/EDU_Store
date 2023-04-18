@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace Edu_Store.Models
@@ -11,18 +10,16 @@ namespace Edu_Store.Models
         {
         }
 
-        protected override void OnModelCreating(ModelBuilder builder)
+        protected override void OnModelCreating( ModelBuilder builder )
         {
-            base.OnModelCreating(builder);
-            builder.Entity<StudentCourse>(entity =>
+            base.OnModelCreating( builder );
+            builder.Entity<StudentCourse>( entity =>
             {
-                entity.HasKey(s => new { s.StudentID, s.CourseID });
-            });
+                entity.HasKey( s => new { s.StudentId , s.CourseID } );
+            } );
         }
 
-        public DbSet<Teacher> Teachers { get; set; }
         public DbSet<Course> Courses { get; set; }
-        public DbSet<Student> Students { get; set; }
-        public DbSet<StudentCourse> StudentCourses { get; set;}
+        public DbSet<StudentCourse> StudentCourses { get; set; }
     }
 }

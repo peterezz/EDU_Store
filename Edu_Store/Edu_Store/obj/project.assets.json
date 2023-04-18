@@ -11151,19 +11151,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Roka Adel\\.nuget\\packages\\": {}
+    "C:\\Users\\hp 2022\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\iti\\Mvc_Project\\EDU_Store\\Edu_Store\\Edu_Store\\Edu_Store.csproj",
+      "projectUniqueName": "E:\\EDU_Store\\Edu_Store\\Edu_Store\\Edu_Store.csproj",
       "projectName": "Edu_Store",
-      "projectPath": "F:\\iti\\Mvc_Project\\EDU_Store\\Edu_Store\\Edu_Store\\Edu_Store.csproj",
-      "packagesPath": "C:\\Users\\Roka Adel\\.nuget\\packages\\",
-      "outputPath": "F:\\iti\\Mvc_Project\\EDU_Store\\Edu_Store\\Edu_Store\\obj\\",
+      "projectPath": "E:\\EDU_Store\\Edu_Store\\Edu_Store\\Edu_Store.csproj",
+      "packagesPath": "C:\\Users\\hp 2022\\.nuget\\packages\\",
+      "outputPath": "E:\\EDU_Store\\Edu_Store\\Edu_Store\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Roka Adel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hp 2022\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11245,7 +11245,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

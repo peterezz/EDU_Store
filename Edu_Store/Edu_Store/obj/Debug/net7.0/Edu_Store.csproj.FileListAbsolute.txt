@@ -1,379 +1,288 @@
-<<<<<<< HEAD
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\appsettings.Development.json
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\appsettings.json
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Edu_Store.staticwebassets.runtime.json
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Edu_Store.exe
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Edu_Store.deps.json
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Edu_Store.runtimeconfig.json
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Edu_Store.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Azure.Core.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Azure.Identity.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Humanizer.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Facebook.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Google.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Twitter.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Build.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Build.Framework.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Identity.Client.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Mono.TextTemplating.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Newtonsoft.Json.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\NuGet.Common.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\NuGet.Configuration.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\NuGet.Frameworks.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\NuGet.LibraryModel.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\NuGet.Packaging.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\NuGet.ProjectModel.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\NuGet.Protocol.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\NuGet.Versioning.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.CodeDom.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Composition.AttributedModel.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Composition.Convention.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Composition.Hosting.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Composition.Runtime.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Composition.TypedParts.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Drawing.Common.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Memory.Data.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Runtime.Caching.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Security.Permissions.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Windows.Extensions.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.csproj.AssemblyReference.cache
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.GeneratedMSBuildEditorConfig.editorconfig
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.AssemblyInfoInputs.cache
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.AssemblyInfo.cs
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.csproj.CoreCompileInputs.cache
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.MvcApplicationPartsAssemblyInfo.cs
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.MvcApplicationPartsAssemblyInfo.cache
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.RazorAssemblyInfo.cache
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.RazorAssemblyInfo.cs
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\staticwebassets\msbuild.Edu_Store.Microsoft.AspNetCore.StaticWebAssets.props
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\staticwebassets\msbuild.build.Edu_Store.props
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Edu_Store.props
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Edu_Store.props
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\staticwebassets.pack.json
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\staticwebassets.build.json
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\staticwebassets.development.json
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\scopedcss\bundle\Edu_Store.styles.css
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\scopedcss\projectbundle\Edu_Store.bundle.scp.css
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.csproj.CopyComplete
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\refint\Edu_Store.dll
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.pdb
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.genruntimeconfig.cache
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Edu_Store.pdb
-F:\iti\Mvc_Project\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\ref\Edu_Store.dll
-=======
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\appsettings.Development.json
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\appsettings.json
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Edu_Store.staticwebassets.runtime.json
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Edu_Store.exe
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Edu_Store.deps.json
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Edu_Store.runtimeconfig.json
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Edu_Store.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Edu_Store.pdb
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Azure.Core.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Azure.Identity.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Humanizer.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Facebook.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Google.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Twitter.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Identity.Client.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Mono.TextTemplating.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.CodeDom.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Drawing.Common.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Memory.Data.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Runtime.Caching.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Security.Permissions.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Windows.Extensions.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.csproj.AssemblyReference.cache
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.GeneratedMSBuildEditorConfig.editorconfig
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.AssemblyInfoInputs.cache
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.AssemblyInfo.cs
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.csproj.CoreCompileInputs.cache
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.MvcApplicationPartsAssemblyInfo.cs
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.MvcApplicationPartsAssemblyInfo.cache
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.RazorAssemblyInfo.cache
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.RazorAssemblyInfo.cs
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\staticwebassets\msbuild.Edu_Store.Microsoft.AspNetCore.StaticWebAssets.props
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\staticwebassets\msbuild.build.Edu_Store.props
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Edu_Store.props
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Edu_Store.props
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\staticwebassets.pack.json
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\staticwebassets.build.json
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\staticwebassets.development.json
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\scopedcss\bundle\Edu_Store.styles.css
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\scopedcss\projectbundle\Edu_Store.bundle.scp.css
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.csproj.CopyComplete
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\refint\Edu_Store.dll
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.pdb
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.genruntimeconfig.cache
-E:\I T I\CU,net\ASP.NET MVC\PROJECT\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\ref\Edu_Store.dll
->>>>>>> 64333d5bbffce00d41411110bef17ba57c569789
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\appsettings.Development.json
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\appsettings.json
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Edu_Store.staticwebassets.runtime.json
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Edu_Store.exe
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Edu_Store.deps.json
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Edu_Store.runtimeconfig.json
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Edu_Store.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Edu_Store.pdb
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Azure.Core.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Azure.Identity.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Humanizer.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Google.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Twitter.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Build.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\NuGet.Common.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\NuGet.Configuration.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\NuGet.Frameworks.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\NuGet.LibraryModel.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\NuGet.Packaging.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\NuGet.ProjectModel.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\NuGet.Protocol.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\NuGet.Versioning.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.CodeDom.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Composition.Convention.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Composition.Hosting.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Composition.Runtime.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Composition.TypedParts.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Memory.Data.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.csproj.AssemblyReference.cache
+E:\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.GeneratedMSBuildEditorConfig.editorconfig
+E:\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.AssemblyInfoInputs.cache
+E:\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.AssemblyInfo.cs
+E:\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.csproj.CoreCompileInputs.cache
+E:\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.MvcApplicationPartsAssemblyInfo.cs
+E:\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.MvcApplicationPartsAssemblyInfo.cache
+E:\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.RazorAssemblyInfo.cache
+E:\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.RazorAssemblyInfo.cs
+E:\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\staticwebassets\msbuild.Edu_Store.Microsoft.AspNetCore.StaticWebAssets.props
+E:\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\staticwebassets\msbuild.build.Edu_Store.props
+E:\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Edu_Store.props
+E:\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Edu_Store.props
+E:\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\staticwebassets.pack.json
+E:\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\staticwebassets.build.json
+E:\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\staticwebassets.development.json
+E:\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\scopedcss\bundle\Edu_Store.styles.css
+E:\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\scopedcss\projectbundle\Edu_Store.bundle.scp.css
+E:\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.csproj.CopyComplete
+E:\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.dll
+E:\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\refint\Edu_Store.dll
+E:\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.pdb
+E:\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.genruntimeconfig.cache
+E:\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\ref\Edu_Store.dll
