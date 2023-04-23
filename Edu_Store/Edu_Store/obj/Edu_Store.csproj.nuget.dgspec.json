@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\EDU_Store\\Edu_Store\\Edu_Store\\Edu_Store.csproj": {}
+    "D:\\somaya\\ITI\\MVC\\mvc_final\\EDU_Store\\Edu_Store\\Edu_Store\\Edu_Store.csproj": {}
   },
   "projects": {
-    "E:\\EDU_Store\\Edu_Store\\Edu_Store\\Edu_Store.csproj": {
+    "D:\\somaya\\ITI\\MVC\\mvc_final\\EDU_Store\\Edu_Store\\Edu_Store\\Edu_Store.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\EDU_Store\\Edu_Store\\Edu_Store\\Edu_Store.csproj",
+        "projectUniqueName": "D:\\somaya\\ITI\\MVC\\mvc_final\\EDU_Store\\Edu_Store\\Edu_Store\\Edu_Store.csproj",
         "projectName": "Edu_Store",
-        "projectPath": "E:\\EDU_Store\\Edu_Store\\Edu_Store\\Edu_Store.csproj",
-        "packagesPath": "C:\\Users\\hp 2022\\.nuget\\packages\\",
-        "outputPath": "E:\\EDU_Store\\Edu_Store\\Edu_Store\\obj\\",
+        "projectPath": "D:\\somaya\\ITI\\MVC\\mvc_final\\EDU_Store\\Edu_Store\\Edu_Store\\Edu_Store.csproj",
+        "packagesPath": "C:\\Users\\Orange\\.nuget\\packages\\",
+        "outputPath": "D:\\somaya\\ITI\\MVC\\mvc_final\\EDU_Store\\Edu_Store\\Edu_Store\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hp 2022\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Orange\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,6 +63,10 @@
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
               "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",

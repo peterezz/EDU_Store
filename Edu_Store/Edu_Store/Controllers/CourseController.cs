@@ -1,4 +1,5 @@
 ﻿using Edu_Store.Managers;
+using Edu_Store.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -20,7 +21,7 @@ namespace Edu_Store.Controllers
         // GET: CourseController/Details/5
         public ActionResult Details(int id)
         {
-            return View();
+            return View(CourseManager.GetCourseById(id));
         }
 
         // GET: CourseController/Create
@@ -32,10 +33,11 @@ namespace Edu_Store.Controllers
         // POST: CourseController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public ActionResult Create(Course crs)
         {
             try
             {
+                CourseManager.AddCourse(crs);
                 return RedirectToAction(nameof(Index));
             }
             catch
@@ -68,7 +70,8 @@ namespace Edu_Store.Controllers
         // GET: CourseController/Delete/5
         public ActionResult Delete(int id)
         {
-            return View();
+            CourseManager.DeleteCourse(id);
+            return RedirectToAction(nameof(Index));
         }
 
         // POST: CourseController/Delete/5
