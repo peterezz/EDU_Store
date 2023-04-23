@@ -1,9 +1,11 @@
 ﻿using Edu_Store.Managers;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Edu_Store.Controllers
 {
+    [Authorize]
     public class CourseController : Controller
     {
         // GET: CourseController

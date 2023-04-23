@@ -1,6 +1,7 @@
 using Edu_Store.Managers;
 using Edu_Store.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
 
 namespace Edu_Store
 {
@@ -37,7 +38,15 @@ namespace Edu_Store
             var connectionString = builder.Configuration.GetConnectionString( "DefaultConnection" ) ?? throw new InvalidOperationException( "Connection string 'DefaultConnection' not found." );
             builder.Services.AddDbContext<ApplicationDbContext>( options =>
                 options.UseSqlServer( connectionString ) );
+
+            builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true).
+                AddRoles<IdentityRole>()
+              .AddEntityFrameworkStores<ApplicationDbContext>();
+
             builder.Services.AddDatabaseDeveloperPageExceptionFilter( );
+
+
+
             #endregion
 
             #region Identity service
@@ -66,8 +75,10 @@ namespace Edu_Store
                 name: "default" ,
                 pattern: "{controller=Home}/{action=Index}/{id?}" );
             app.MapRazorPages( );
+            app.UseEndpoints(endpoint=>endpoint.MapRazorPages( ) ); 
 
             app.Run( );
+
         }
     }
 }

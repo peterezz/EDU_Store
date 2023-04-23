@@ -1,9 +1,11 @@
 ﻿using Edu_Store.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
 namespace Edu_Store.Controllers
 {
+    [Authorize]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
@@ -32,5 +34,6 @@ namespace Edu_Store.Controllers
         {
             return View( );
         }
+       
     }
 }
