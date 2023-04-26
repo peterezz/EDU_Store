@@ -25,5 +25,11 @@ namespace Edu_Store.Models
 
         public ICollection<StudentCourse>? StudentCourses { get; set; }
         //public ICollection<Student>? Students { get; set; }
+
+        public ICollection<CourseModule>? Modules { get; set; }
+        [NotMapped]
+        public string DirectoryName => $"{CourseID}-{Title}";
+
+
     }
 }
