@@ -53,6 +53,12 @@
             HeaderName = "header_inner about_page";
         else if (ViewBag.Title == "Home Page")
             HeaderName = "header_four";
+        else if (ViewBag.Title == "Contact")
+            HeaderName = "header_inner contact_page";
+        else if(ViewBag.Title == "Index")
+            HeaderName = "header_inner courses_page";
+        else if (ViewBag.Title == "Details")
+            HeaderName = "header_inner blog_page";
 
     }
 
@@ -109,11 +115,8 @@
                             </li>
                             <li class="nav-item"><a asp-action="About" asp-controller="Home" class="nav-link @(ViewData["ActiveAboutNavLink"] ?? string.Empty) as string">About</a></li>
                             <li class="nav-item">
-                                <a href="course.html" class="nav-link">Courses</a>
-                                <ul class="navbar-nav nav mx-auto">
-                                    <li class="nav-item"><a asp-controller="Course" asp-action="Index" class="nav-link">Courses</a></li>
-                                    <li class="nav-item"><a href="course-details.html" class="nav-link">Courses Details</a></li>
-                                </ul>
+                                <a asp-controller="Course" asp-action="Index" class="nav-link">Courses</a>
+                               
                             </li>
                             <li class="nav-item">
                                 <a href="blog.html" class="nav-link">Blog</a>
@@ -156,7 +159,7 @@
                                     <li class="nav-item"><a href="forgot-password.html" class="nav-link">Forgot Password</a></li>
                                 </ul>
                             </li>
-                            <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+                            <li class="nav-item"><a  asp-controller="Home" asp-action="Contact" class="nav-link">Contact</a></li>
                         </ul>
                     </div>
                     <div class="mr-auto search_area ">
