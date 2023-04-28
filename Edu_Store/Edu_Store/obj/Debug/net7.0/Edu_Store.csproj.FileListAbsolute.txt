@@ -574,3 +574,8 @@ C:\Users\Menna\Source\Repos\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\refin
 C:\Users\Menna\Source\Repos\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.pdb
 C:\Users\Menna\Source\Repos\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.genruntimeconfig.cache
 C:\Users\Menna\Source\Repos\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\ref\Edu_Store.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\SendGrid.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\SendGrid.Extensions.DependencyInjection.dll
+E:\EDU_Store\Edu_Store\Edu_Store\bin\Debug\net7.0\StarkbankEcdsa.dll
+E:\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.Properties.Resources.resources
+E:\EDU_Store\Edu_Store\Edu_Store\obj\Debug\net7.0\Edu_Store.csproj.GenerateResource.cache
