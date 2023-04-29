@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace Edu_Store.Models
@@ -12,14 +13,38 @@ namespace Edu_Store.Models
 
         protected override void OnModelCreating( ModelBuilder builder )
         {
-            base.OnModelCreating( builder );
+         
             builder.Entity<StudentCourse>( entity =>
             {
                 entity.HasKey( s => new { s.StudentId , s.CourseID } );
             } );
+            builder.Entity<IdentityRole>().HasData(
+                new IdentityRole()
+                {
+                    Id=Guid.NewGuid().ToString(),   
+                    Name="Student",
+                    NormalizedName="student",
+                    ConcurrencyStamp= Guid.NewGuid().ToString()
+                }
+                
+                );
+
+            builder.Entity<IdentityRole>().HasData(
+                new IdentityRole()
+        {
+            Id = Guid.NewGuid().ToString(),   
+                    Name = "Teacher",
+                    NormalizedName = "teacher",
+                    ConcurrencyStamp = Guid.NewGuid().ToString()
+                }
+                
+                );
+            base.OnModelCreating(builder);
         }
 
         public DbSet<Course> Courses { get; set; }
         public DbSet<StudentCourse> StudentCourses { get; set; }
+        public DbSet<CourseModule> Modules { get; set; }
+        public DbSet<ModuleLecture> Lectures { get; set; }
     }
 }

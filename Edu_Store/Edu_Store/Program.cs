@@ -1,6 +1,9 @@
 using Edu_Store.Managers;
 using Edu_Store.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.UI.Services;
+using SendGrid.Extensions.DependencyInjection;
 
 namespace Edu_Store
 {
@@ -18,11 +21,9 @@ namespace Edu_Store
             {
                 options.ClientId = "591786662170-7etbht75kl1rn8in3ahhicg4mi9o3djd.apps.googleusercontent.com";
                 options.ClientSecret = "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";
-            } ).AddTwitter( options =>
-            {
-                options.ConsumerKey = "SVB3VXFVWGcyaUg5NkdwSDZ2MFQ6MTpjaQ";
-                options.ConsumerSecret = "xzrwsMPywVJBFNqB3VavwuGWHnERcapW0Ww0Q_xkWIntElCwaH";
-            } );
+                options.CorrelationCookie.SameSite = SameSiteMode.Unspecified;
+
+            });
             //.AddFacebook(options =>
             //{
             //    options.AppId = "611643087536377";
@@ -30,14 +31,28 @@ namespace Edu_Store
             //})
             // builder.Services.AddScoped<TeacherManager>( );
             builder.Services.AddScoped<CourseManager>( );
-
+         builder.Services.AddTransient<IEmailSender, EmailSender>();
+            builder.Services.Configure<SendGridSettings>(builder.Configuration.GetSection("SendGridSettings"));
+            builder.Services.AddSendGrid(Option => {
+                Option.ApiKey = builder.Configuration.GetSection("SendGridSettings").GetValue<string>("ApiKey");
+                
+                
+                });
             #endregion
 
             #region Default DbContext service
             var connectionString = builder.Configuration.GetConnectionString( "DefaultConnection" ) ?? throw new InvalidOperationException( "Connection string 'DefaultConnection' not found." );
             builder.Services.AddDbContext<ApplicationDbContext>( options =>
                 options.UseSqlServer( connectionString ) );
+
+            builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true).
+                AddRoles<IdentityRole>()
+              .AddEntityFrameworkStores<ApplicationDbContext>();
+
             builder.Services.AddDatabaseDeveloperPageExceptionFilter( );
+
+
+
             #endregion
 
             #region Identity service
@@ -66,8 +81,10 @@ namespace Edu_Store
                 name: "default" ,
                 pattern: "{controller=Home}/{action=Index}/{id?}" );
             app.MapRazorPages( );
+            app.UseEndpoints(endpoint=>endpoint.MapRazorPages( ) ); 
 
             app.Run( );
+
         }
     }
 }

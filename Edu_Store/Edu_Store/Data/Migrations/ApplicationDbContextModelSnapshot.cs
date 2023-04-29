@@ -58,6 +58,67 @@ namespace Edu_Store.Data.Migrations
                     b.ToTable("Courses");
                 });
 
+            modelBuilder.Entity("Edu_Store.Models.CourseModule", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("CourseId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasMaxLength(200)
+                        .HasColumnType("nvarchar(200)");
+
+                    b.Property<string>("ModuleName")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
+
+                    b.Property<decimal>("TotalHour")
+                        .HasColumnType("decimal(18,4)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("CourseId");
+
+                    b.ToTable("Modules");
+                });
+
+            modelBuilder.Entity("Edu_Store.Models.ModuleLecture", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("LectureName")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
+
+                    b.Property<decimal>("LectureTime_MS")
+                        .HasColumnType("decimal(18,4)");
+
+                    b.Property<string>("LectureVedioPath")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("ModuleID")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ModuleID");
+
+                    b.ToTable("lectures");
+                });
+
             modelBuilder.Entity("Edu_Store.Models.StudentCourse", b =>
                 {
                     b.Property<string>("StudentId")
@@ -308,6 +369,28 @@ namespace Edu_Store.Data.Migrations
                     b.Navigation("Teacher");
                 });
 
+            modelBuilder.Entity("Edu_Store.Models.CourseModule", b =>
+                {
+                    b.HasOne("Edu_Store.Models.Course", "Course")
+                        .WithMany("Modules")
+                        .HasForeignKey("CourseId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Course");
+                });
+
+            modelBuilder.Entity("Edu_Store.Models.ModuleLecture", b =>
+                {
+                    b.HasOne("Edu_Store.Models.CourseModule", "Module")
+                        .WithMany("Lectures")
+                        .HasForeignKey("ModuleID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Module");
+                });
+
             modelBuilder.Entity("Edu_Store.Models.StudentCourse", b =>
                 {
                     b.HasOne("Edu_Store.Models.Course", "Course")
@@ -380,7 +463,14 @@ namespace Edu_Store.Data.Migrations
 
             modelBuilder.Entity("Edu_Store.Models.Course", b =>
                 {
+                    b.Navigation("Modules");
+
                     b.Navigation("StudentCourses");
+                });
+
+            modelBuilder.Entity("Edu_Store.Models.CourseModule", b =>
+                {
+                    b.Navigation("Lectures");
                 });
 #pragma warning restore 612, 618
         }
