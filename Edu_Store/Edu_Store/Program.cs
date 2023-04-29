@@ -21,7 +21,10 @@ namespace Edu_Store
             {
                 options.ClientId = "591786662170-7etbht75kl1rn8in3ahhicg4mi9o3djd.apps.googleusercontent.com";
                 options.ClientSecret = "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";
-            } ).AddTwitter( options =>
+          //      options..SameSite = SameSiteMode.Unspecified;
+
+
+            }).AddTwitter( options =>
             {
                 options.ConsumerKey = "SVB3VXFVWGcyaUg5NkdwSDZ2MFQ6MTpjaQ";
                 options.ConsumerSecret = "xzrwsMPywVJBFNqB3VavwuGWHnERcapW0Ww0Q_xkWIntElCwaH";
