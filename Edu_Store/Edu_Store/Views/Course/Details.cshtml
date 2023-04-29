@@ -4,7 +4,23 @@
     ViewData["Title"] = "Details";
 }
 
-@*<h1>Course Details</h1>*@
+<div class="intro_wrapper">
+        <div class="container">  
+            <div class="row">        
+                 <div class="col-sm-12 col-md-8 col-lg-8">
+                    <div class="intro_text">
+                        <h1>Courses Details</h1>
+                        <div class="pages_links">
+                            <a href="#" title="">Home</a>
+                            <a href="#" title="">Course</a>
+                            <a href="#" title="" class="active">Course Details</a>
+                        </div>
+                    </div>
+                </div>              
+
+            </div>
+        </div> 
+    </div> 
 
 
     <section class="blog_wrapper" id="courses_details_wrapper">
@@ -51,15 +67,16 @@
                             <img src=@path alt="" asp-append-version="true" class="img-fluid">
                             </div>
                         </div>
-                        <div class="courses_tab_wrapper">
-                            <div class="courses_details_nav_tabs">
-                                <ul class="nav nav-tabs" role="tablist">
-                                    <li class="nav-item"><a class="nav-link active" href="#information" role="tab" data-toggle="tab">Information</a></li>
-                                    
-                                    <li class="nav-item"><a class="nav-link" href="#instructor" role="tab" data-toggle="tab">Instructor</a></li>
-                                    
-                                </ul>
-                            </div>
+                       <div class="courses_tab_wrapper">  
+                        <div class="courses_details_nav_tabs">     
+                            <ul class="nav nav-tabs" role="tablist">
+                                <li class="nav-item"><a class="nav-link active" href="#information" role="tab" data-toggle="tab">Information</a></li>
+                                <li class="nav-item"><a class="nav-link" href="#curricularm" role="tab" data-toggle="tab">Curricularm</a></li>
+                                <li class="nav-item"><a class="nav-link" href="#instructor" role="tab" data-toggle="tab">Instructor</a></li> 
+                                <li class="nav-item"><a class="nav-link" href="#reviews" role="tab" data-toggle="tab">Reviews</a></li>
+                            </ul>
+                        </div> 
+                        
 
                             <!-- Tab panes -->
                             <div class="tab_contents tab-content">
@@ -77,7 +94,137 @@
                                         </ul>
                                     </div>
                                 </div>
-                                
+                                <div role="tabpanel" class="tab-pane fade" id="curricularm">
+                                <div class="curriculum-text-box">
+                                    <div class="curriculum-section">
+                                        <div class="panel-group" id="accordion">
+                                            <div class="panel panel-default">
+                                                <div class="panel-heading">
+                                                    <h4 class="panel-title click">
+                                                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse1" class="">
+                                                        1. Welcome to the Courses<span>0/5</span></a>
+                                                    </h4>
+
+                                                </div>
+                                                <div id="collapse1" class="panel-collapse collapse in show">
+                                                    <div class="panel-body">
+                                                        <div class="curriculum-single">
+                                                            <div class="lecture">
+                                                                <span><i class="fa fa-file-text-o"></i>Lecture 2. 1</span>
+                                                                <span><i class="fa fa-clock-o"></i>Duration: 30mins</span>
+                                                            </div>
+                                                            <a href="#">Preview</a>
+                                                        </div>
+                                                         <div class="curriculum-single">
+                                                            <div class="lecture">
+                                                                <span><i class="fa fa-file-text-o"></i>Lecture 2. 1</span>
+                                                                <span><i class="fa fa-clock-o"></i>Duration: 30mins</span>
+                                                            </div>
+                                                           <a href="#">Preview</a>
+                                                        </div>
+                                                         <div class="curriculum-single">
+                                                            <div class="lecture">
+                                                                <span><i class="fa fa-file-text-o"></i>Lecture 2. 1</span>
+                                                                <span><i class="fa fa-clock-o"></i>Duration: 30mins</span>
+                                                            </div>
+                                                            <a href="#">Preview</a>
+                                                        </div>
+                                                        <div class="curriculum-single">
+                                                            <div class="lecture">
+                                                                <span><i class="fa fa-file-text-o"></i>Lecture 2. 1</span>
+                                                                <span><i class="fa fa-clock-o"></i>Duration: 30mins</span>
+                                                            </div>
+                                                            <a href="#">Preview</a>
+                                                        </div>
+                                                        <div class="curriculum-single">
+                                                            <div class="lecture">
+                                                                <span><i class="fa fa-file-text-o"></i>Lecture 2. 1</span>
+                                                                <span><i class="fa fa-clock-o"></i>Duration: 30mins</span>
+                                                            </div>
+                                                            <a href="#">Preview</a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="panel panel-default">
+                                                <div class="panel-heading">
+                                                    <h4 class="panel-title">
+                                                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse2" class="collapsed">
+                                                        2. How to use Wordpress<span>0/4</span></a>
+                                                    </h4>
+                                                </div>
+                                                <div id="collapse2" class="panel-collapse collapse">
+                                                    <div class="panel-body">
+                                                        <div class="curriculum-single">
+                                                            <div class="lecture">
+                                                                <span><i class="fa fa-file-text-o"></i>Lecture 2. 1</span>
+                                                                <span><i class="fa fa-clock-o"></i>Duration: 30mins</span>
+                                                            </div>
+                                                            <a href="#">Preview</a>
+                                                        </div>
+                                                         <div class="curriculum-single">
+                                                            <div class="lecture">
+                                                                <span><i class="fa fa-file-text-o"></i>Lecture 2. 1</span>
+                                                                <span><i class="fa fa-clock-o"></i>Duration: 30mins</span>
+                                                            </div>
+                                                            <a href="#">Preview</a>
+                                                        </div>
+                                                         <div class="curriculum-single">
+                                                            <div class="lecture">
+                                                                <span><i class="fa fa-file-text-o"></i>Lecture 2. 1</span>
+                                                                <span><i class="fa fa-clock-o"></i>Duration: 30mins</span>
+                                                            </div>
+                                                            <a href="#">Preview</a>
+                                                        </div>
+                                                         <div class="curriculum-single">
+                                                            <div class="lecture">
+                                                                <span><i class="fa fa-file-text-o"></i>Lecture 2. 1</span>
+                                                                <span><i class="fa fa-clock-o"></i>Duration: 30mins</span>
+                                                            </div>
+                                                            <a href="#">Preview</a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="panel panel-default">
+                                                <div class="panel-heading">
+                                                    <h4 class="panel-title">
+                                                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse3" class="collapsed">
+                                                    3. Final chapters<span>0/3</span></a>
+                                                    </h4>
+                                                </div>
+                                                <div id="collapse3" class="panel-collapse collapse">
+                                                    <div class="panel-body">
+                                                         <div class="curriculum-single">
+                                                            <div class="lecture">
+                                                                <span><i class="fa fa-file-text-o"></i>Lecture 2. 1</span>
+                                                                <span><i class="fa fa-clock-o"></i>Duration: 30mins</span>
+                                                            </div>
+                                                            <a href="#">Preview</a>
+                                                        </div>
+                                                         <div class="curriculum-single">
+                                                            <div class="lecture">
+                                                                <span><i class="fa fa-file-text-o"></i>Lecture 2. 1</span>
+                                                                <span><i class="fa fa-clock-o"></i>Duration: 30mins</span>
+                                                            </div>
+                                                            <a href="#">Preview</a>
+                                                        </div>
+                                                         <div class="curriculum-single">
+                                                            <div class="lecture">
+                                                                <span><i class="fa fa-file-text-o"></i>Lecture 2. 1</span>
+                                                                <span><i class="fa fa-clock-o"></i>Duration: 30mins</span>
+                                                            </div>
+                                                            <a href="#">Preview</a>
+                                                        </div>
+
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                        </div> <!-- .curriculum-section-text END -->
+                                    </div>
+                                </div>
+                            </div>
                                 <div role="tabpanel" class="tab-pane fade" id="instructor">
                                     <div class="courses_teacher">
                                         <div class="tutor_signle">
@@ -96,6 +243,98 @@
                         </div>
                     </div>
                 </div> <!--End Blog Siderbar Left-->
+                 <div class="col-12 col-sm-12 col-md-4 col-lg-4 blog_wrapper_right ">
+                <div class="blog-right-items">
+                    <div class="courses_features widget_single">
+                        <div class="items-title">
+                            <h3 class="title">Courses Features</h3>
+                        </div>
+                        <div class="features_items">
+                            <ul class="list-unstyled">
+                                <li><a href="#" title=""><i class="flaticon-page"></i> Lessons </a><span>69</span></li>
+                                <li><a href="#" title=""><i class="flaticon-eye-open"></i> Viewers</a><span>56</span></li>
+                                <li><a href="#" title=""><i class="flaticon-clock-circular-outline"></i> Duration</a><span>@Model.Duration Days</span></li>
+                                <li><a href="#" title=""><i class="flaticon-padlock"></i> Prequisite</a><span>No</span></li>
+                                <li><a href="#" title=""><i class="flaticon-diploma"></i> Certificate</a><span>Yes</span></li>                                
+                                <li><a href="#" title=""><i class="flaticon-language"></i> Language</a><span>Eng</span></li>                                
+                                <li><a href="#" title=""><i class="flaticon-thumbs-up-hand-symbol"></i> Skills</a><span>Any</span></li>                                
+                                <li><a href="#" title=""><i class="flaticon-edit"></i> Assessments</a><span>Yes</span></li>
+                            </ul>
+                        </div>
+                     
+                    </div>  
+
+
+
+                    <div class="recent_post_wrapper popular_courses_post widget_single">
+                        <div class="items-title">
+                            <h3 class="title">Our Popular Courses</h3>
+                        </div>
+                        <div class="single-post">
+                            <div class="recent_img">
+                                 <a href="#" title=""><img src="images/blog/blog_1.jpg" alt="" class="img-fluid"></a>
+                            </div>
+                            <div class="post_title">
+                                <a href="#" title="">How to Become Master In CSS within qa Week.</a>
+                                <div class="courses_price">
+                                    <div class="price"><span><del>74$</del></span> <span class="new_price">49$</span></div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="single-post">
+                            <div class="recent_img">
+                                <a href="#" title=""><img src="images/blog/blog_2.jpg" alt="" class="img-fluid"></a>
+                            </div>
+                            <div class="post_title">
+                                <a href="#" title="">Connecting volunteers & nonprofitsz worldwide.</a>
+                                <div class="courses_price">
+                                    <div class="price"><span><del>60$</del></span> <span class="new_price">38$</span></div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="single-post">
+                            <div class="recent_img">
+                                <a href="#" title=""><img src="images/blog/blog_3.jpg" alt="" class="img-fluid"></a>
+                            </div>
+                            <div class="post_title">
+                                <a href="#" title="">Research of Learn training process</a>
+                                <div class="courses_price">
+                                    <div class="price"><span class="new_price">79$</span></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="get_discount widget_single">
+                        <div class="items-title">
+                            <p>New Spcial Offers</p>
+                            <h3>Get 35% Off</h3>
+                            <a href="#" title="">Get Started</a>
+                        </div>
+
+                    </div>  
+
+                    <div class="archives widget_single">
+                        <div class="items-title">
+
+                            <h3 class="title">All Categories</h3>
+
+                        </div>
+                        <div class="archives-items">
+                            <ul class="list-unstyled">
+                                <li><a href="#" title="">Art & Design </a></li>
+                                <li><a href="#" title="">Busness</a></li>
+                                <li><a href="#" title="">IT & Software</a></li>
+                                <li><a href="#" title="">Languages</a></li>
+                                <li><a href="#" title="">Programming</a></li>                                
+                                <li><a href="#" title="">Technology</a></li>
+                            </ul>
+                        </div>
+                    </div>  
+                </div>
+            </div>
 
 
                
