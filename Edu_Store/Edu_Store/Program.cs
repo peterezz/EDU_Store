@@ -23,11 +23,7 @@ namespace Edu_Store
                 options.ClientSecret = "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";
                 options.CorrelationCookie.SameSite = SameSiteMode.Unspecified;
 
-            }).AddTwitter( options =>
-            {
-                options.ConsumerKey = "SVB3VXFVWGcyaUg5NkdwSDZ2MFQ6MTpjaQ";
-                options.ConsumerSecret = "xzrwsMPywVJBFNqB3VavwuGWHnERcapW0Ww0Q_xkWIntElCwaH";
-            } );
+            });
             //.AddFacebook(options =>
             //{
             //    options.AppId = "611643087536377";
