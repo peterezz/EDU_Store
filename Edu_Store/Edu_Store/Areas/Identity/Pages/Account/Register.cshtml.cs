@@ -20,7 +20,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.WebUtilities;
 using Microsoft.Extensions.Logging;
-
+ 
 namespace Edu_Store.Areas.Identity.Pages.Account
 {
     public class RegisterModel : PageModel
@@ -128,7 +128,7 @@ namespace Edu_Store.Areas.Identity.Pages.Account
                 var user = CreateUser();
               //  user.Name = Input.UserName;
                 user.gender = Input.gender;
-                user.EmailConfirmed = true;
+              //  user.EmailConfirmed = true;
                 
              
 

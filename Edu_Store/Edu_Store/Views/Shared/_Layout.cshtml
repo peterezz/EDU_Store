@@ -79,9 +79,16 @@
                             <div class="login_info">
 
                                 <ul class="d-flex">
+                                @if(User.Identity.IsAuthenticated)
+                                {
+                                                                             <li class="nav-item"><a   asp-area="Identity"  asp-page="/Account/Logout" class="nav-link join_now js-modal-show"><i class="flaticon-padlock"></i>Log out</a></li>
+
+                                }
+                                else{
                                     <li class="nav-item"><a  asp-area="Identity"  asp-page="/Account/Register" class="nav-link sign-in js-modal-show"><i class="flaticon-user-male-black-shape-with-plus-sign"></i>Sign Up</a></li>
                                     <li class="nav-item"><a   asp-area="Identity"  asp-page="/Account/Login" class="nav-link join_now js-modal-show"><i class="flaticon-padlock"></i>Lon In</a></li>
-                                     <li class="nav-item"><a   asp-area="Identity"  asp-page="/Account/Logout" class="nav-link join_now js-modal-show"><i class="flaticon-padlock"></i>Log out</a></li>
+                                }
+                                    
 
                                 </ul>
                                 <a href="#" title="" class="apply_btn">Apply Now</a>
