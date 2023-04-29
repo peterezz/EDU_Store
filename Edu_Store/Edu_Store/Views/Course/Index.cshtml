@@ -4,12 +4,46 @@
     ViewData["Title"] = "Index";
 }
 
+    <div class="intro_wrapper">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 col-md-8 col-lg-8">
+                    <div class="intro_text">
+                        <h1>Courese Page</h1>
+                        <div class="pages_links">
+                            <a href="#" title="">Home</a>
+                            <a href="#" title="" class="active">Course Page</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+@*<div class="intro_wrapper">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-md-8 col-lg-8">
+                <div class="intro_text">
+                    <h1>Courese Page</h1>
+                    <div class="pages_links">
+                        <a href="#" title="">Home</a>
+                        <a href="#" title="" class="active">Course Page</a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>*@
+
 <h1>Index</h1>
 
 <p>
     <a asp-action="Create">Create New</a>
 </p>
-<table class="table">
+@*<table class="table">
     <thead>
         <tr>
             <th>
@@ -27,9 +61,41 @@
             <th></th>
         </tr>
     </thead>
-    <tbody>
+    <tbody>*@
+        <section class="popular_courses" id="popular_courses_page">
+    <div class="container"> 
+        <div class="row">
 @foreach (var item in Model) {
-        <tr>
+    
+            <div class="center col-12 col-sm-6 col-md-6 col-lg-4">
+                <div class="single-courses">
+                    <div class="courses_banner_wrapper">
+                            <div class="courses_banner"> <a asp-action="Details" asp-route-id="@item.CourseID"><img src=@item.image alt="" asp-append-version="true" class="img-fluid"></a>
+
+    </div>
+                        <div class="purchase_price">
+                            <a href="#" class="read_more-btn">@item.Price $</a>
+                        </div>
+                    </div>
+                    <div class="courses_info_wrapper">
+                        <div class="courses_title">
+                            <h3><a href="#">@item.Title</a></h3>
+                    <div class="teachers_name">Teacher - <a href="#" title="">@*@item.Teacher.Name*@</a></div>
+                        </div>
+                        <div class="courses_info">
+                            <ul class="list-unstyled">
+                                <li><i class="fa fa-user"></i> @item.Duration Days</li>
+                                
+                            </ul>
+                            <a href="#" class="cart_btn">Add to Cart</a>
+                        </div>
+                    </div>
+                </div><!-- Ends: .single courses -->
+            </div>
+           
+    
+    
+    @*<tr>
             <td>
                 @Html.DisplayFor(modelItem => item.Title)
             </td>
@@ -47,7 +113,12 @@
                 <a asp-action="Details" asp-route-id="@item.CourseID">Details</a> |
                 <a asp-action="Delete" asp-route-id="@item.CourseID">Delete</a>
             </td>
-        </tr>
+        </tr>*@
 }
-    </tbody>
-</table>
+        </div>
+
+    </div>
+</section><!-- ./ End Courses Area section -->
+<!-- Ends: . -->
+   @* </tbody>
+</table>*@
