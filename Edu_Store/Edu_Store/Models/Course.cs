@@ -19,9 +19,17 @@ namespace Edu_Store.Models
         [ForeignKey( "Teacher" )]
         [Column( TypeName = "nvarchar(450)" )]
         public string? TeacherID { get; set; }
+        public string? image { get; set; }
+        public int? Price { get; set; }
         public ApplicationUser? Teacher { get; set; }
 
         public ICollection<StudentCourse>? StudentCourses { get; set; }
         //public ICollection<Student>? Students { get; set; }
+
+        public ICollection<CourseModule>? Modules { get; set; }
+        [NotMapped]
+        public string DirectoryName => $"{CourseID}-{Title}";
+
+
     }
 }

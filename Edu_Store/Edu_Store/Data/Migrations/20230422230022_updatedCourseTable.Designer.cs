@@ -4,6 +4,7 @@ using Edu_Store.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,13 +12,15 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Edu_Store.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20230422230022_updatedCourseTable")]
+    partial class updatedCourseTable
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "7.0.5")
+                .HasAnnotation("ProductVersion", "7.0.4")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -56,69 +59,6 @@ namespace Edu_Store.Data.Migrations
                     b.HasIndex("TeacherID");
 
                     b.ToTable("Courses");
-
-                });
-
-            modelBuilder.Entity("Edu_Store.Models.CourseModule", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<int>("CourseId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("Description")
-                        .IsRequired()
-                        .HasMaxLength(200)
-                        .HasColumnType("nvarchar(200)");
-
-                    b.Property<string>("ModuleName")
-                        .IsRequired()
-                        .HasMaxLength(50)
-                        .HasColumnType("nvarchar(50)");
-
-                    b.Property<decimal>("TotalHour")
-                        .HasColumnType("decimal(18,4)");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("CourseId");
-
-                    b.ToTable("Modules");
-                });
-
-            modelBuilder.Entity("Edu_Store.Models.ModuleLecture", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<string>("LectureName")
-                        .IsRequired()
-                        .HasMaxLength(50)
-                        .HasColumnType("nvarchar(50)");
-
-                    b.Property<decimal>("LectureTime_MS")
-                        .HasColumnType("decimal(18,4)");
-
-                    b.Property<string>("LectureVedioPath")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("ModuleID")
-                        .HasColumnType("int");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("ModuleID");
-
-                    b.ToTable("lectures");
-
                 });
 
             modelBuilder.Entity("Edu_Store.Models.StudentCourse", b =>
@@ -164,22 +104,6 @@ namespace Edu_Store.Data.Migrations
                         .HasFilter("[NormalizedName] IS NOT NULL");
 
                     b.ToTable("AspNetRoles", (string)null);
-
-                    b.HasData(
-                        new
-                        {
-                            Id = "7fe801ec-0756-42a2-bb16-0ce7b8eecf14",
-                            ConcurrencyStamp = "f5d18dd6-2f0d-4cb6-ad99-3b1b0440309b",
-                            Name = "Student",
-                            NormalizedName = "student"
-                        },
-                        new
-                        {
-                            Id = "0f7194db-7e0c-4ffe-a16b-07bad0d69c63",
-                            ConcurrencyStamp = "9828b72c-ce82-4541-9d19-faf63d31e456",
-                            Name = "Teacher",
-                            NormalizedName = "teacher"
-                        });
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -308,12 +232,10 @@ namespace Edu_Store.Data.Migrations
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserLogin<string>", b =>
                 {
                     b.Property<string>("LoginProvider")
-                        .HasMaxLength(128)
-                        .HasColumnType("nvarchar(128)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("ProviderKey")
-                        .HasMaxLength(128)
-                        .HasColumnType("nvarchar(128)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("ProviderDisplayName")
                         .HasColumnType("nvarchar(max)");
@@ -350,12 +272,10 @@ namespace Edu_Store.Data.Migrations
                         .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("LoginProvider")
-                        .HasMaxLength(128)
-                        .HasColumnType("nvarchar(128)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("Name")
-                        .HasMaxLength(128)
-                        .HasColumnType("nvarchar(128)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("Value")
                         .HasColumnType("nvarchar(max)");
@@ -369,15 +289,15 @@ namespace Edu_Store.Data.Migrations
                 {
                     b.HasBaseType("Microsoft.AspNetCore.Identity.IdentityUser");
 
+                    b.Property<int>("Gender")
+                        .HasColumnType("int");
+
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Photo")
                         .HasColumnType("nvarchar(max)");
-
-                    b.Property<int?>("gender")
-                        .HasColumnType("int");
 
                     b.HasDiscriminator().HasValue("ApplicationUser");
                 });
@@ -389,28 +309,6 @@ namespace Edu_Store.Data.Migrations
                         .HasForeignKey("TeacherID");
 
                     b.Navigation("Teacher");
-                });
-
-            modelBuilder.Entity("Edu_Store.Models.CourseModule", b =>
-                {
-                    b.HasOne("Edu_Store.Models.Course", "Course")
-                        .WithMany("Modules")
-                        .HasForeignKey("CourseId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Course");
-                });
-
-            modelBuilder.Entity("Edu_Store.Models.ModuleLecture", b =>
-                {
-                    b.HasOne("Edu_Store.Models.CourseModule", "Module")
-                        .WithMany("Lectures")
-                        .HasForeignKey("ModuleID")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Module");
                 });
 
             modelBuilder.Entity("Edu_Store.Models.StudentCourse", b =>
@@ -485,14 +383,7 @@ namespace Edu_Store.Data.Migrations
 
             modelBuilder.Entity("Edu_Store.Models.Course", b =>
                 {
-                    b.Navigation("Modules");
-
                     b.Navigation("StudentCourses");
-                });
-
-            modelBuilder.Entity("Edu_Store.Models.CourseModule", b =>
-                {
-                    b.Navigation("Lectures");
                 });
 #pragma warning restore 612, 618
         }

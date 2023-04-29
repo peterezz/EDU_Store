@@ -71,14 +71,15 @@
                     <div class="col-12 col-sm-12 col-lg-12">
                         <div class="info_wrapper">
                             <div class="contact_info">
-                                <ul class="list-unstyled">
+                                <!--<ul class="list-unstyled">
                                     <li><i class="flaticon-phone-receiver"></i>+000-2356-222</li>
                                     <li><i class="flaticon-mail-black-envelope-symbol"></i>contact@yourdomain.com</li>
-                                </ul>
+                                </ul>-->
                             </div>
                             <div class="login_info">
 
                                 <ul class="d-flex">
+
 
                                 @if(User.Identity.IsAuthenticated)
                                 {
@@ -91,6 +92,7 @@
                                         <li class="nav-item"><a   asp-area="Identity"  asp-page="/Account/Login" class="nav-link join_now js-modal-show"><i class="flaticon-padlock"></i>Lon In</a></li>
                                     }
                                     
+
 
                                 </ul>
                                 <a href="#" title="" class="apply_btn">Apply Now</a>
@@ -123,7 +125,7 @@
                             <li class="nav-item">
                                 <a href="course.html" class="nav-link">Courses</a>
                                 <ul class="navbar-nav nav mx-auto">
-                                    <li class="nav-item"><a href="course.html" class="nav-link">Courses</a></li>
+                                    <li class="nav-item"><a asp-controller="Course" asp-action="Index" class="nav-link">Courses</a></li>
                                     <li class="nav-item"><a href="course-details.html" class="nav-link">Courses Details</a></li>
                                 </ul>
                             </li>
