@@ -30,6 +30,7 @@ namespace Edu_Store
             //    options.AppSecret = "7fdb754495764c6c8f7e84b180d42a22";
             //})
             // builder.Services.AddScoped<TeacherManager>( );
+
             builder.Services.AddScoped<CourseManager>( );
          builder.Services.AddTransient<IEmailSender, EmailSender>();
             builder.Services.Configure<SendGridSettings>(builder.Configuration.GetSection("SendGridSettings"));
@@ -38,6 +39,17 @@ namespace Edu_Store
                 
                 
                 });
+
+            #endregion
+            #region SendGrid SMTP(Email Confirmaiton)
+            builder.Services.AddScoped<CourseManager>();
+            builder.Services.AddTransient<IEmailSender, EmailSender>();
+            builder.Services.Configure<SendGridSettings>(builder.Configuration.GetSection("SendGridSettings"));
+            builder.Services.AddSendGrid(Option => {
+                Option.ApiKey = builder.Configuration.GetSection("SendGridSettings").GetValue<string>("ApiKey");
+
+
+            });
             #endregion
 
             #region Default DbContext service
@@ -59,6 +71,8 @@ namespace Edu_Store
             builder.Services.AddIdentityCore<ApplicationUser>( options => options.SignIn.RequireConfirmedAccount = true )
         .AddEntityFrameworkStores<ApplicationDbContext>( );
             #endregion
+            //GetCurrent User id service
+            builder.Services.AddHttpContextAccessor();
 
             var app = builder.Build( );
 

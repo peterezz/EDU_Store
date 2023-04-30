@@ -85,9 +85,12 @@
                             <div class="login_info">
 
                                 <ul class="d-flex">
+
                                 @if(User.Identity.IsAuthenticated)
                                 {
-                                                                             <li class="nav-item"><a   asp-area="Identity"  asp-page="/Account/Logout" class="nav-link join_now js-modal-show"><i class="flaticon-padlock"></i>Log out</a></li>
+                                                                                <li style="color:white;" >    Hello @User.Identity.Name</li> 
+                                              <li class="nav-item"><a   asp-area="Identity"  asp-page="/Account/Logout" class="nav-link join_now js-modal-show"><i class="flaticon-padlock"></i>Log out</a></li>
+
 
                                 }
                                 else{
@@ -95,6 +98,7 @@
                                     <li class="nav-item"><a   asp-area="Identity"  asp-page="/Account/Login" class="nav-link join_now js-modal-show"><i class="flaticon-padlock"></i>Lon In</a></li>
                                 }
                                     
+
 
                                 </ul>
                                 <a href="#" title="" class="apply_btn">Apply Now</a>

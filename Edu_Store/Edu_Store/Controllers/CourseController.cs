@@ -1,10 +1,15 @@
 ﻿using Edu_Store.Managers;
 using Edu_Store.Models;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
+
 using Microsoft.AspNetCore.Mvc;
 
 namespace Edu_Store.Controllers
 {
-    // [Authorize( nameof( Roles.Teacher ) )]
+
+    [Authorize]
+
     public class CourseController : Controller
     {
         // GET: CourseController

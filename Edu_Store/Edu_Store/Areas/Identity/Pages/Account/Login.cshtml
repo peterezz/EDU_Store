@@ -1,4 +1,4 @@
-﻿@page
+@page
 @model LoginModel
 
 @{
@@ -55,6 +55,7 @@
             @{
                 if ((Model.ExternalLogins?.Count ?? 0) == 0)
                 {
+
                     <div>
                         <p>
                             There are no external authentication services configured. See this <a href="https://go.microsoft.com/fwlink/?LinkID=532715">article
@@ -74,6 +75,7 @@
                             </p>
                         </div>
                     </form>
+
                 }
             }
         </section>
@@ -81,5 +83,6 @@
 </div>
 
 @section Scripts {
-    <partial name="_ValidationScriptsPartial" />
+        <partial name="_ValidationScriptsPartial" />
+
 }
