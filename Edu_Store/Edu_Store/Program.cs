@@ -39,6 +39,13 @@ namespace Edu_Store
                 
                 
                 });
+            //logout 
+            builder.Services.AddSession(options =>
+            {
+                options.Cookie.Name = "ExampleSession";
+                options.IdleTimeout = TimeSpan.FromMinutes(10);
+                options.Cookie.IsEssential = true;
+            });
 
             #endregion
             #region SendGrid SMTP(Email Confirmaiton)

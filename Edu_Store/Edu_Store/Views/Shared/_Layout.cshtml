@@ -89,7 +89,7 @@
                                 @if(User.Identity.IsAuthenticated)
                                 {
                                                                                 <li style="color:white;" >    Hello @User.Identity.Name</li> 
-                                              <li class="nav-item"><a   asp-area="Identity"  asp-page="/Account/Logout" class="nav-link join_now js-modal-show"><i class="flaticon-padlock"></i>Log out</a></li>
+                                                      <li class="nav-item"><a  asp-action="Logout" asp-controller="Home"  class="nav-link join_now js-modal-show"><i class="flaticon-padlock"></i>Log out</a></li>
 
 
                                 }
