@@ -12,10 +12,12 @@ namespace Edu_Store.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly CourseManager courseManager;
 
-        public HomeController( ILogger<HomeController> logger )
+        public HomeController( ILogger<HomeController> logger ,CourseManager courseManager)
         {
             _logger = logger;
+            this.courseManager = courseManager;
         }
 
         public IActionResult Index( )
@@ -42,6 +44,12 @@ namespace Edu_Store.Controllers
         {
             return View( );
         }
-       
+        public IActionResult viewCourses(int? pageNumber)
+        {
+           // ViewBag.courseId = courseManager.GetStudentCourses();
+            int pagesize = 3;
+            return View(courseManager.GetStudentCourses());
+        }
+
     }
 }

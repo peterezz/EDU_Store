@@ -71,6 +71,8 @@ namespace Edu_Store
             builder.Services.AddIdentityCore<ApplicationUser>( options => options.SignIn.RequireConfirmedAccount = true )
         .AddEntityFrameworkStores<ApplicationDbContext>( );
             #endregion
+            //GetCurrent User id service
+            builder.Services.AddHttpContextAccessor();
 
             var app = builder.Build( );
 
