@@ -4,6 +4,7 @@ using Edu_Store.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Edu_Store.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20230426222442_UpdatedModuleTable")]
+    partial class UpdatedModuleTable
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -56,7 +59,6 @@ namespace Edu_Store.Data.Migrations
                     b.HasIndex("TeacherID");
 
                     b.ToTable("Courses");
-
                 });
 
             modelBuilder.Entity("Edu_Store.Models.CourseModule", b =>
@@ -118,7 +120,6 @@ namespace Edu_Store.Data.Migrations
                     b.HasIndex("ModuleID");
 
                     b.ToTable("lectures");
-
                 });
 
             modelBuilder.Entity("Edu_Store.Models.StudentCourse", b =>
@@ -164,22 +165,6 @@ namespace Edu_Store.Data.Migrations
                         .HasFilter("[NormalizedName] IS NOT NULL");
 
                     b.ToTable("AspNetRoles", (string)null);
-
-                    b.HasData(
-                        new
-                        {
-                            Id = "7fe801ec-0756-42a2-bb16-0ce7b8eecf14",
-                            ConcurrencyStamp = "f5d18dd6-2f0d-4cb6-ad99-3b1b0440309b",
-                            Name = "Student",
-                            NormalizedName = "student"
-                        },
-                        new
-                        {
-                            Id = "0f7194db-7e0c-4ffe-a16b-07bad0d69c63",
-                            ConcurrencyStamp = "9828b72c-ce82-4541-9d19-faf63d31e456",
-                            Name = "Teacher",
-                            NormalizedName = "teacher"
-                        });
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -308,12 +293,10 @@ namespace Edu_Store.Data.Migrations
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserLogin<string>", b =>
                 {
                     b.Property<string>("LoginProvider")
-                        .HasMaxLength(128)
-                        .HasColumnType("nvarchar(128)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("ProviderKey")
-                        .HasMaxLength(128)
-                        .HasColumnType("nvarchar(128)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("ProviderDisplayName")
                         .HasColumnType("nvarchar(max)");
@@ -350,12 +333,10 @@ namespace Edu_Store.Data.Migrations
                         .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("LoginProvider")
-                        .HasMaxLength(128)
-                        .HasColumnType("nvarchar(128)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("Name")
-                        .HasMaxLength(128)
-                        .HasColumnType("nvarchar(128)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("Value")
                         .HasColumnType("nvarchar(max)");
@@ -369,15 +350,15 @@ namespace Edu_Store.Data.Migrations
                 {
                     b.HasBaseType("Microsoft.AspNetCore.Identity.IdentityUser");
 
+                    b.Property<int>("Gender")
+                        .HasColumnType("int");
+
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Photo")
                         .HasColumnType("nvarchar(max)");
-
-                    b.Property<int?>("gender")
-                        .HasColumnType("int");
 
                     b.HasDiscriminator().HasValue("ApplicationUser");
                 });
