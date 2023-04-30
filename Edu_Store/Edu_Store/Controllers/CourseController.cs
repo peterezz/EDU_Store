@@ -18,10 +18,16 @@ namespace Edu_Store.Controllers
         {
             CourseManager = courseManager;
         }
-        public ActionResult Index( )
+
+        public ActionResult Index(int? pageNumber)
         {
-            return View( CourseManager.GetAllCourses( ) );
+            
+            int pagesize = 3;
+            return View(Paginatedlist<Course>.create(CourseManager.GetAllCourses(),pageNumber??1,pagesize));
+
         }
+        
+
 
         // GET: CourseController/Details/5
         public ActionResult Details( int id )

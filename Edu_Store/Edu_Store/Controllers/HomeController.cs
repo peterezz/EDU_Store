@@ -1,4 +1,7 @@
-﻿using Edu_Store.Models;
+
+using Edu_Store.Managers;
+using Edu_Store.Models;
+
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
@@ -19,6 +22,11 @@ namespace Edu_Store.Controllers
         {
             return View( );
         }
+        public ActionResult Contact()
+        {
+            return View();
+        }
+
 
         public IActionResult Privacy( )
         {

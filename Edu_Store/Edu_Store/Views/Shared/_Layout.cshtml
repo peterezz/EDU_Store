@@ -53,6 +53,12 @@
             HeaderName = "header_inner about_page";
         else if (ViewBag.Title == "Home Page")
             HeaderName = "header_four";
+        else if (ViewBag.Title == "Contact")
+            HeaderName = "header_inner contact_page";
+        else if(ViewBag.Title == "Index")
+            HeaderName = "header_inner courses_page";
+        else if (ViewBag.Title == "Details")
+            HeaderName = "header_inner blog_page";
 
     }
 
@@ -71,26 +77,24 @@
                     <div class="col-12 col-sm-12 col-lg-12">
                         <div class="info_wrapper">
                             <div class="contact_info">
-                                <!--<ul class="list-unstyled">
+                                <ul class="list-unstyled">
                                     <li><i class="flaticon-phone-receiver"></i>+000-2356-222</li>
                                     <li><i class="flaticon-mail-black-envelope-symbol"></i>contact@yourdomain.com</li>
-                                </ul>-->
+                                </ul>
                             </div>
                             <div class="login_info">
 
                                 <ul class="d-flex">
 
-
                                 @if(User.Identity.IsAuthenticated)
                                 {
-                                        <li class="nav-item"><a   asp-area="Identity"  asp-page="/Account/Logout" class="nav-link join_now js-modal-show"><i class="flaticon-padlock"></i>Log out</a></li>
+                                                                             <li class="nav-item"><a   asp-area="Identity"  asp-page="/Account/Logout" class="nav-link join_now js-modal-show"><i class="flaticon-padlock"></i>Log out</a></li>
 
-                                    }
-                                    else
-                                    {
-                                            <li class="nav-item"><a  asp-area="Identity"  asp-page="/Account/Register" class="nav-link sign-in js-modal-show"><i class="flaticon-user-male-black-shape-with-plus-sign"></i>Sign Up</a></li>
-                                        <li class="nav-item"><a   asp-area="Identity"  asp-page="/Account/Login" class="nav-link join_now js-modal-show"><i class="flaticon-padlock"></i>Lon In</a></li>
-                                    }
+                                }
+                                else{
+                                    <li class="nav-item"><a  asp-area="Identity"  asp-page="/Account/Register" class="nav-link sign-in js-modal-show"><i class="flaticon-user-male-black-shape-with-plus-sign"></i>Sign Up</a></li>
+                                    <li class="nav-item"><a   asp-area="Identity"  asp-page="/Account/Login" class="nav-link join_now js-modal-show"><i class="flaticon-padlock"></i>Lon In</a></li>
+                                }
                                     
 
 
@@ -123,11 +127,7 @@
                             </li>
                             <li class="nav-item"><a asp-action="About" asp-controller="Home" class="nav-link @(ViewData["ActiveAboutNavLink"] ?? string.Empty) as string">About</a></li>
                             <li class="nav-item">
-                                <a href="course.html" class="nav-link">Courses</a>
-                                <ul class="navbar-nav nav mx-auto">
-                                    <li class="nav-item"><a asp-controller="Course" asp-action="Index" class="nav-link">Courses</a></li>
-                                    <li class="nav-item"><a href="course-details.html" class="nav-link">Courses Details</a></li>
-                                </ul>
+                                <a asp-controller="Course" asp-action="Index" class="nav-link">Courses</a>
                             </li>
                             <li class="nav-item">
                                 <a href="blog.html" class="nav-link">Blog</a>
@@ -170,7 +170,7 @@
                                     <li class="nav-item"><a href="forgot-password.html" class="nav-link">Forgot Password</a></li>
                                 </ul>
                             </li>
-                            <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+                            <li class="nav-item"><a  asp-controller="Home" asp-action="Contact" class="nav-link">Contact</a></li>
                         </ul>
                     </div>
                     <div class="mr-auto search_area ">
