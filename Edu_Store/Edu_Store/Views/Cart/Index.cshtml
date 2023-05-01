@@ -12,7 +12,7 @@
 <table class="table">
     <thead>
         <tr>
-            <th>
+            <th style="color:#111b51;">
                 @Html.DisplayNameFor(model => model.Course)
             </th>
         </tr>
@@ -24,11 +24,15 @@
                 @Html.DisplayFor(modelItem => item.Course.Title)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-controller="Course" asp-action="Details" asp-route-id="@item.CourseID">Details</a> |
                 <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
             </td>
         </tr>
 }
+
     </tbody>
 </table>
+
+<form method="post" asp-controller="" asp-action="">
+    <input type="submit" value="Buy Now" style="background:#ff5a2c;font-weight:500;color:white;font-size:12px;height:36px;line-height:36px;width:80px;display:flex;justify-content:center;margin:auto;margin-bottom:10px;" />
+</form>
