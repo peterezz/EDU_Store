@@ -5,25 +5,25 @@ namespace Edu_Store.Managers
 {
     public class CartManager
     {
-        public CartManager(ApplicationDbContext context)
+        public CartManager( ApplicationDbContext context )
         {
-            baseRepo = new BaseRepo<Cart>(context);
+            baseRepo = new BaseRepo<Cart>( context );
             Context = context;
         }
         public BaseRepo<Cart> baseRepo { get; set; }
         public ApplicationDbContext Context { get; }
 
-        public List<Cart> GetAll()
+        public List<Cart> GetAll( string studentID )
         {
-            return baseRepo.GetAll().ToList();
+            return baseRepo.GetMany( cart => cart.StudentId == studentID , cart => cart.Course ).ToList( );
         }
-        public void Add(Cart cart)
+        public void Add( Cart cart )
         {
-            baseRepo.Add(cart);
+            baseRepo.Add( cart );
         }
-        public void DeleteCart(int id)
+        public void DeleteCart( int id )
         {
-            baseRepo.Delete(id);
+            baseRepo.Delete( id );
         }
     }
 }

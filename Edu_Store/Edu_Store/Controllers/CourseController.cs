@@ -8,23 +8,26 @@ namespace Edu_Store.Controllers
     // [Authorize( nameof( Roles.Teacher ) )]
     public class CourseController : Controller
     {
+        private readonly ILogger<Course> logger;
+
         // GET: CourseController
         public CourseManager CourseManager { get; }
         public UserManager<ApplicationUser> UserManager { get; }
         public CartManager CartManager { get; }
 
-        public CourseController( CourseManager courseManager, UserManager<ApplicationUser> _userManager, CartManager cartManager )
+        public CourseController( CourseManager courseManager , UserManager<ApplicationUser> _userManager , CartManager cartManager , ILogger<Course> logger )
         {
             CourseManager = courseManager;
             UserManager = _userManager;
             CartManager = cartManager;
+            this.logger = logger;
         }
 
-        public ActionResult Index(int? pageNumber)
+        public ActionResult Index( int? pageNumber )
         {
-            
+
             int pagesize = 3;
-            return View(Paginatedlist<Course>.create(CourseManager.GetAllCourses(),pageNumber??1,pagesize));
+            return View( Paginatedlist<Course>.create( CourseManager.GetAllCourses( ) , pageNumber ?? 1 , pagesize ) );
 
         }
 
@@ -37,18 +40,19 @@ namespace Edu_Store.Controllers
         }
 
         [HttpPost]
-        public ActionResult AddToCart(int courseId)
+        public ActionResult AddToCart( int courseId )
         {
-            var userID = UserManager.GetUserAsync(HttpContext.User).Result?.Id;
-            if (string.IsNullOrEmpty(userID))
+            logger.LogInformation( "" + courseId );
+            var userID = UserManager.GetUserAsync( HttpContext.User ).Result?.Id;
+            if ( string.IsNullOrEmpty( userID ) )
             {
-                return RedirectToAction("Index");
+                return RedirectToAction( "Index" );
 
             }
             else
             {
-                CartManager.Add(new Cart { CourseID = courseId, StudentId = userID });
-                return RedirectToAction("Index", "Cart"); //index getAll
+                CartManager.Add( new Cart { CourseID = courseId , StudentId = userID } );
+                return RedirectToAction( "Index" , "Cart" ); //index getAll
             }
         }
         // Email ===> nancyyy@gmail.com   // nanno@gmail.com
