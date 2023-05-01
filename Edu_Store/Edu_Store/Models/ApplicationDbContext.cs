@@ -46,5 +46,7 @@ namespace Edu_Store.Models
         public DbSet<StudentCourse> StudentCourses { get; set; }
         public DbSet<CourseModule> Modules { get; set; }
         public DbSet<ModuleLecture> Lectures { get; set; }
+        public DbSet<Cart> Carts { get; set; }
+
     }
 }

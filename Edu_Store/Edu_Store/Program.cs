@@ -31,6 +31,7 @@ namespace Edu_Store
             //})
             // builder.Services.AddScoped<TeacherManager>( );
             builder.Services.AddScoped<CourseManager>( );
+            builder.Services.AddScoped<CartManager>( );
          builder.Services.AddTransient<IEmailSender, EmailSender>();
             builder.Services.Configure<SendGridSettings>(builder.Configuration.GetSection("SendGridSettings"));
             builder.Services.AddSendGrid(Option => {
