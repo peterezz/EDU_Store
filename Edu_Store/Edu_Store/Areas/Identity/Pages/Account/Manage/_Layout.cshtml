@@ -11,14 +11,18 @@
 
 <h1>Manage your account</h1>
 
+<div class="row">
+    <button id="edit" class="btn-primary col-sm-1 offset-10" >Edit</button>
+</div>
+
 <div>
     @*<h2>Change your account settings</h2>*@
     <hr />
     <div class="row">
-        <div id="navmenu" class="col-md-3">
+        <div id="navmenu" class="col-md-3 hidden">
             <partial name="_ManageNav" />
         </div>
-        <div class="col-md-12">
+        <div class="col-md-9">
             @RenderBody()
         </div>
     </div>
@@ -27,3 +31,14 @@
 @section Scripts {
     @RenderSection("Scripts", required: false)
 }
+
+<script>
+    var show = document.getElementById("editvisible")
+    var menu = document.getElementById("navmenu")
+
+    document.getElementById("edit").addEventListener("click", () => {
+        show.classList.remove("hidden")
+        menu.classList.remove("hidden")
+
+    })
+</script>

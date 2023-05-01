@@ -8,13 +8,10 @@
 <h3>@ViewData["Title"]</h3>
 <partial name="_StatusMessage" for="StatusMessage" />
 
-<div class="row">
-    <button id="edit" class="btn-primary col-sm-1 offset-10" >Edit</button>
-</div>
 @*Edit*@
 @*This part is auto generated*@
-<div id="editvisible" class="row hidden">
-    <div class="col-md-7">
+<div id="editvisible" class="row hidden" >
+    <div class="col-md-6">
         <form id="profile-form" method="post">
             <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
             <div class="form-floating mb-3">
@@ -152,19 +149,6 @@
 
 
 
-
-
 @section Scripts {
     <partial name="_ValidationScriptsPartial" />
 }
-
-<script>
-    var show = document.getElementById("editvisible")
-    var menu = document.getElementById("navmenu")
-    
-    document.getElementById("edit").addEventListener( "click", () => {
-        show.classList.remove("hidden")
-        menu.classList.remove("hidden")
-
-    })
-</script>
