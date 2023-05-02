@@ -25,23 +25,24 @@ namespace Edu_Store.Managers
             int _max = 999;
             Random _rdm = new Random( );
             int guid = _rdm.Next( _min , _max );
-            string photopath = Directory.GetCurrentDirectory( ) + PhysicalPath;
+            string photopath = $"{Directory.GetCurrentDirectory( )}/wwwroot/{PhysicalPath}";
             string photoname = guid + Path.GetFileName( PhotoFile.FileName );
             string finalpath = photopath + photoname;
             SaveImage.SaveAs( ScaleImage , finalpath );
 
-            return photoname;
+            return $"/{PhysicalPath}{photoname}";
         }
         public static void DeleteFile( string filePath )
         {
+            string path = $"{Directory.GetCurrentDirectory( )}/wwwroot/{filePath}";
 
             try
             {
                 // Check if file exists with its full path    
-                if ( File.Exists( filePath ) )
+                if ( File.Exists( path ) )
                 {
                     // If file found, delete it    
-                    File.Delete( filePath );
+                    File.Delete( path );
                     Console.WriteLine( "File deleted." );
                 }
                 else Console.WriteLine( "File not found" );

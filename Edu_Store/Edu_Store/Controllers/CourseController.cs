@@ -1,14 +1,12 @@
 ﻿using Edu_Store.Managers;
 using Edu_Store.Models;
-using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http;
 
 using Microsoft.AspNetCore.Mvc;
 
 namespace Edu_Store.Controllers
 {
 
-    [Authorize]
+    //[Authorize]
 
     public class CourseController : Controller
     {
@@ -19,14 +17,14 @@ namespace Edu_Store.Controllers
             CourseManager = courseManager;
         }
 
-        public ActionResult Index(int? pageNumber)
+        public ActionResult Index( int? pageNumber )
         {
-            
+
             int pagesize = 3;
-            return View(Paginatedlist<Course>.create(CourseManager.GetAllCourses(),pageNumber??1,pagesize));
+            return View( Paginatedlist<Course>.create( CourseManager.GetAllCourses( ) , pageNumber ?? 1 , pagesize ) );
 
         }
-        
+
 
 
         // GET: CourseController/Details/5
@@ -82,7 +80,7 @@ namespace Edu_Store.Controllers
         // GET: CourseController/Delete/5
         public ActionResult Delete( int id )
         {
-            CourseManager.DeleteCourse( id );
+            //CourseManager.DeleteCourse( id );
             return RedirectToAction( nameof( Index ) );
         }
 

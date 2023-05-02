@@ -13,7 +13,7 @@ namespace Edu_Store.Models
 
         public string? Description { get; set; }
 
-        [StringLength( 10 )]
+
         public int? Duration { get; set; }
 
         [ForeignKey( "Teacher" )]
@@ -29,6 +29,9 @@ namespace Edu_Store.Models
         public ICollection<CourseModule>? Modules { get; set; }
         [NotMapped]
         public string DirectoryName => $"{CourseID}-{Title}";
+
+        [NotMapped]
+        public IFormFile ImageFile { get; set; }
 
 
     }
