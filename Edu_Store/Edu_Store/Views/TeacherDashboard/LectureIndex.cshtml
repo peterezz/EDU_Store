@@ -1,12 +1,12 @@
-﻿@model IEnumerable<Course>
+﻿@model IEnumerable<ModuleLecture>
 @{
-    ViewBag.Title = "Index";
-    Layout = "/Views/Shared/_TeacherDashboard.cshtml";
+    ViewData["Title"] = "LectureIndex";
+    Layout = "~/Views/Shared/_TeacherDashboard.cshtml";
 }
 
 <section class="content">
     <div class="container-fluid">
-        @if (Model.Count() != 0)
+        @if ( Model.Count( ) != 0 )
         {
             <!-- Basic Table -->
             <div class="row clearfix">
@@ -14,32 +14,30 @@
                     <div class="card">
                         <div class="header">
                             <h2>
-                                YOUR COURSES
+                                YOUR Module LECTURES
                             </h2>
                             <br>
-                                <p><a asp-action ="AddCourse" asp-controller="TeacherDashboard">Add new course</a></p>
+                            <p><a asp-action="CreateModule" asp-controller="TeacherDashboard" asp-route-courseID="@ViewBag.courseID" asp-route-moduleID="@ViewBag.moduleID">Add new lecture</a></p>
                         </div>
                         <div class="body table-responsive">
                             <table class="table">
                                 <thead>
                                     <tr>
-                                        <th>Title</th>
-                                        <th>DESCRIPTION</th>
+                                        <th>LECTURE NAME</th>
                                         <th>DURATION</th>
-                                        <th>PRICE</th>
+                                      
                                         <th>ACTIONS</th>
                                     </tr>
                                 </thead>
                                 <tbody>
-                                    @foreach (var item in Model)
+                                    @foreach ( var item in Model )
                                     {
 
                                         <tr>
-                                            <th scope="row">@item.Title</th>
-                                            <td>@item.Description</td>
-                                            <td>@item.Duration</td>
-                                            <td><span>$</span>@item.Price</td>
-                                            <td>  <a asp-action="DeleteCourse" asp-controller="TeacherDashboard" asp-route-id="@item.CourseID">Delete</a> | <a href="/TeacherDashboard/CreateModule?courseId=@item.CourseID">add module</a></td>
+                                            <th scope="row">@item.LectureName</th>
+                                            <td>@item.LectureTime_MS</td>
+
+                                            <td>  <a asp-action="DeleteLecture" asp-controller="TeacherDashboard" asp-route-lectureID="@item.Id" asp-route-moduleID="@ViewBag.moduleID" asp-route-courseID="@ViewBag.courseID">Delete</a></td>
                                         </tr>
                                     }
 
@@ -51,11 +49,16 @@
             </div>
             <!-- #END# Basic Table -->
         }
-        else{
-        <h2>No courses yet | add a course from this <a asp-action="AddCourse" asp-controller="TeacherDashboard">LINK</a></h2>
+        else
+        {
+            <h2>
+                No lectures yet | add a lectures from this <a asp-action="CreateLecture" asp-controller="TeacherDashboard" asp-route-courseID="@ViewBag.courseID" asp-route-moduleID="@ViewBag.moduleID">Link</a>
+
+            </h2>
         }
 
 
     </div>
 </section>
+
 

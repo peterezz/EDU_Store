@@ -14,8 +14,9 @@ namespace Edu_Store.Models
         [StringLength( 50 , ErrorMessage = "field reached maximum length" )]
         public string LectureName { get; set; } = string.Empty;
         [NotMapped]
+        [Required( ErrorMessage = "field is required" )]
         public IFormFile? videoFile { get; set; }
-        public string LectureVedioPath { get; set; } = string.Empty;
+        public string? LectureVedioPath { get; set; } = string.Empty;
         public CourseModule? Module { get; set; }
         [NotMapped]
         public string vedioPath => $"/Courses/{LectureVedioPath}";

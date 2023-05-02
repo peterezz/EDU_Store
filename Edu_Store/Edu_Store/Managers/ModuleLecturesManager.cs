@@ -49,11 +49,11 @@ namespace Edu_Store.Managers
             data.LectureTime_MS = moduleLecture.LectureTime_MS;
             _repo.Edit( data );
         }
-        public List<ModuleLecture> GetAllModuleLectures( )
-            => _repo.GetAll( ).ToList( );
+        public List<ModuleLecture> GetAllModuleLectures( int courseID , int moduleID )
+            => _repo.GetMany( module => module.ModuleID == moduleID ).ToList( );
 
-        public ModuleLecture GetModuleLecture( int lecID )
-            => context.Lectures.Include( lec => lec.Module ).ThenInclude( module => module.Course ).FirstOrDefault( lec => lec.Id == lecID );
+        public ModuleLecture GetModuleLecture( string TeacherID , int courseID , int moduleID , int lecID )
+            => context.Lectures.Include( lec => lec.Module ).ThenInclude( module => module.Course ).FirstOrDefault( lec => lec.Id == lecID && lec.ModuleID == moduleID && lec.Module.CourseId == courseID && lec.Module.Course.TeacherID == TeacherID );
 
     }
 }
