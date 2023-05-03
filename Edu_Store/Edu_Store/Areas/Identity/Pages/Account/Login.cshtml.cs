@@ -76,21 +76,17 @@ namespace Edu_Store.Areas.Identity.Pages.Account
                 if ( result.Succeeded )
                 {
                     _logger.LogInformation( "User logged in." );
-
-                    if ( string.IsNullOrEmpty( returnUrl ) )
+                    var userRoles = await userManager.GetRolesAsync( await userManager.FindByEmailAsync( Input.Email ) );
+                    if ( userRoles.Contains( nameof( Roles.Teacher ) ) )
                     {
-
-                        if ( User.IsInRole( nameof( Roles.Teacher ) ) )
-                        {
-                            _logger.LogInformation( "User in teacher role" );
-                            return RedirectToAction( "index" , "TeacherDashboard" );
-                        }
-                        if ( User.IsInRole( nameof( Roles.Student ) ) )
-                            return RedirectToAction( "index" , "Home" );
+                        _logger.LogInformation( "User in teacher role" );
+                        return RedirectToAction( "index" , "TeacherDashboard" );
                     }
-
-
-                    return LocalRedirect( returnUrl );
+                    if ( userRoles.Contains( nameof( Roles.Student ) ) )
+                    {
+                        _logger.LogInformation( "User in student role" );
+                        return RedirectToAction( "index" , "Home" );
+                    }
                 }
                 if ( result.RequiresTwoFactor )
                 {
