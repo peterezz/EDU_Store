@@ -10,9 +10,9 @@
 <h1 class="text-center my-3 text-primary">@ViewData["Title"]</h1>
 <div class="row">
     <div class="mx-auto col-3 col-md-4 col-lg-4 offset-8 border border-dark rounded p-3 my-4">
-    <div>
+      <div>
         <section>
-                <form id="account" method="post">
+                    <form method="post">
                         <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
                         <div class="form-floating mb-3">
                             <label asp-for="Input.Email" class="form-label text-dark pl-3">Email</label>
@@ -44,17 +44,14 @@
                                 Not a member?
                                 <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl">Register</a>
                             </p>
-
                         </div>
                     </form>
-                
-          
+               
         </section>
     </div>
     <div>
     <section>
-
-     <p class="text-center">Or Log in with</p>
+        <p class="text-center">Or Log in with</p>
 
     @{
     if ((Model.ExternalLogins?.Count ?? 0) == 0)
@@ -71,12 +68,10 @@
     {
     <form id="external-account" asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post" class="form-horizontal">
     <div>
-    <p class="text-center">
+                                <p class="text-center">
     @foreach (var provider in Model.ExternalLogins!)
     {
-       <button type="button" class="btn btn-secondary btn-floating mx-1 rounded rounded-circle text-danger bg-transparent hover-effect">
-           <i class="fab fa-google"></i>
-       </button>
+      <button type="submit" class="btn btn-secondary btn-floating mx-1 rounded rounded-circle text-danger bg-transparent hover-effect" name="provider" value="@provider.Name" title="Log in using your @provider.DisplayName account"><i class="fab fa-google"></i></button>
     }
     </p>
     </div>
@@ -93,3 +88,4 @@
     <partial name="_ValidationScriptsPartial" />
 
 }
+
