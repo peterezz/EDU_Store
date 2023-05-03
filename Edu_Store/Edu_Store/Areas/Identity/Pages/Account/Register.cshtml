@@ -5,24 +5,14 @@
     ViewData["Title"] = "Register";
 }
 
-<h1 class="text-center my-3">@ViewData["Title"]</h1>
+<h1 class="text-center text-primary my-3">@ViewData["Title"]</h1>
 
 <div class="row">
-    <div class="mx-auto col-3 col-md-4 col-lg-4">
-         @{
-                if ((Model.ExternalLogins?.Count ?? 0) == 0)
-                {
-                    <div>
-                        <p>
-                            There are no external authentication services configured. See this <a href="https://go.microsoft.com/fwlink/?LinkID=532715">article
-                            about setting up this ASP.NET application to support logging in via external services</a>.
-                        </p>
-                    </div>
-                }
-                else
-                {
-                <form asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post" class="border border-dark rounded p-3 my-4 w-60 h-60">
-           
+    <div class="mx-auto col-3 col-md-4 col-lg-4 offset-8 border border-dark rounded p-3 my-4">
+    <div >
+
+        <form method="post">
+
             <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
             <div class="form-floating mb-3">
                 <label asp-for="Input.Email" class="form-label text-dark pl-3">Email</label>
@@ -36,7 +26,7 @@
             </div>
 
 
-             <div class="form-floating mb-3">
+            <div class="form-floating mb-3">
                 <label asp-for="Input.UserName" class="form-label text-dark pl-3">User Name</label>
                 <input asp-for="Input.UserName" class="form-control" autocomplete="new-username" aria-required="true" placeholder="User Name" />
                 <span asp-validation-for="Input.UserName" class="text-danger"></span>
@@ -47,41 +37,31 @@
                 <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
             </div>
 
-             <div class="form-floating mb-3">
+            <div class="form-floating mb-3">
                 <label asp-for="Input.gender" class="form-label text-dark pl-3">Gender</label>
-               <select asp-for="Input.gender" asp-items="Html.GetEnumSelectList<Gender>()" class="form-control"></select>
+                <select asp-for="Input.gender" asp-items="Html.GetEnumSelectList<Gender>()" class="form-control"></select>
 
                 <span asp-validation-for="Input.gender" class="text-danger"></span>
             </div>
 
             <button id="registerSubmit" type="submit" class="w-50 btn btn-lg btn-primary d-block m-auto">Register</button>
-            <p class="text-center">Or Register with Google Account</p>
-                    <div class="d-flex flex-column align-items-center">
-                        <p>
-                            @foreach (var provider in Model.ExternalLogins!)
-                            {
-                                <button type="submit" class="btn btn-secondary btn-floating mx-1 rounded rounded-circle text-danger bg-transparent hover-effect" name="provider" value="@provider.Name" title="Log in using your @provider.DisplayName account"><i class="fab fa-google"></i></button>
-                            }
-                        </p>
-                    </div>
-
         </form>
 
-            }
 
-        }
     </div>
-   @* <div class="col-md-6 col-md-offset-2">
+    <div >
         <section>
-            <h3>Use another service to register.</h3>
-            <hr />
+            <p class="text-center">Or Register with Google Account</p>
+            
             @{
                 if ((Model.ExternalLogins?.Count ?? 0) == 0)
                 {
                     <div>
                         <p>
-                            There are no external authentication services configured. See this <a href="https://go.microsoft.com/fwlink/?LinkID=532715">article
-                            about setting up this ASP.NET application to support logging in via external services</a>.
+                            There are no external authentication services configured. See this <a href="https://go.microsoft.com/fwlink/?LinkID=532715">
+                                article
+                                about setting up this ASP.NET application to support logging in via external services
+                            </a>.
                         </p>
                     </div>
                 }
@@ -89,10 +69,10 @@
                 {
                     <form id="external-account" asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post" class="form-horizontal">
                         <div>
-                            <p>
+                            <p class="text-center">
                                 @foreach (var provider in Model.ExternalLogins!)
                                 {
-                                    <button type="submit" class="btn btn-primary" name="provider" value="@provider.Name" title="Log in using your @provider.DisplayName account">@provider.DisplayName</button>
+                                    <button type="submit" class="btn btn-secondary btn-floating mx-1 rounded rounded-circle text-danger bg-transparent hover-effect" name="provider" value="@provider.Name" title="Log in using your @provider.DisplayName account"><i class="fab fa-google"></i></button>
                                 }
                             </p>
                         </div>
@@ -100,9 +80,29 @@
                 }
             }
         </section>
-    </div>*@
+    </div>
+    </div>
 </div>
 
 @section Scripts {
     <partial name="_ValidationScriptsPartial" />
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
