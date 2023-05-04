@@ -31,16 +31,20 @@ namespace Edu_Store.Managers
         }
         public void DeleteModule( string teacherUserName , CourseModule courseModule )
         {
-            _repo.Delete( courseModule.Id );
+            var data = GetModuleByID( courseModule.Id );
             FolderManager.DeleteDirectory(
                 teacherUserName ,
-                courseModule.Course.DirectoryName ,
+               data.Course.DirectoryName ,
                 courseModule.ModuleDirectoryName
                 );
+            _repo.Delete( data.Id );
         }
-        public List<CourseModule> GetAllCourseModules( int courseID )
-            => _repo.GetMany( module => module.CourseId == courseID , module => module.Lectures ).ToList( );
+        public List<CourseModule> GetAllCourseModules( int courseID , string teacherID )
+            => _repo.GetMany( module => module.CourseId == courseID && module.Course.TeacherID.Equals( teacherID ) , module => module.Course ).ToList( );
         public CourseModule GetModuleByID( int moduleID ) =>
             _repo.GetOne( module => module.Id == moduleID , module => module.Lectures , moduleID => moduleID.Course );
+        public List<ModuleLecture> GetAllModuleLectures( int courseID , int moduleID ) => _repo.GetMany( module => module.CourseId == courseID && module.Id == moduleID , module => module.Course ).SelectMany( module => module.Lectures ).ToList( );
+
+        public CourseModule SearchModuleByCourseID( string teacherID , int moduleID , int courseID ) => _repo.GetOne( module => module.Id == moduleID && module.CourseId == courseID && module.Course.TeacherID.Equals( teacherID ) , module => module.Course );
     }
 }

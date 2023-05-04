@@ -26,6 +26,6 @@ namespace Edu_Store.Models
         public Course? Course { get; set; }
         public ICollection<ModuleLecture>? Lectures { get; set; }
         [NotMapped]
-        public string ModuleDirectoryName { get { return $"{Id} - {ModuleName}"; } }
+        public string ModuleDirectoryName { get { return $"{Id}-{ModuleName}"; } }
     }
 }

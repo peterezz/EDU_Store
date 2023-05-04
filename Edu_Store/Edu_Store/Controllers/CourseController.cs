@@ -5,7 +5,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Edu_Store.Controllers
 {
-    // [Authorize( nameof( Roles.Teacher ) )]
+
+    //[Authorize]
+
     public class CourseController : Controller
     {
         private readonly ILogger<Course> logger;
@@ -30,6 +32,7 @@ namespace Edu_Store.Controllers
             return View( Paginatedlist<Course>.create( CourseManager.GetAllCourses( ) , pageNumber ?? 1 , pagesize ) );
 
         }
+
 
 
         [HttpGet]
@@ -105,7 +108,7 @@ namespace Edu_Store.Controllers
         // GET: CourseController/Delete/5
         public ActionResult Delete( int id )
         {
-            CourseManager.DeleteCourse( id );
+            //CourseManager.DeleteCourse( id );
             return RedirectToAction( nameof( Index ) );
         }
 

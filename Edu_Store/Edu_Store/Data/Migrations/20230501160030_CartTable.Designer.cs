@@ -4,6 +4,7 @@ using Edu_Store.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Edu_Store.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20230501160030_CartTable")]
+    partial class CartTable
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -196,10 +199,8 @@ namespace Edu_Store.Data.Migrations
                         },
                         new
                         {
-
                             Id = "f6e25cd1-9f62-4647-9cb4-a1644cb9f647",
                             ConcurrencyStamp = "18ef4c6b-cade-4213-89d5-30d6a12e8965",
-
                             Name = "Teacher",
                             NormalizedName = "teacher"
                         });

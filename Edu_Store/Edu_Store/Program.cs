@@ -1,8 +1,8 @@
 using Edu_Store.Managers;
 using Edu_Store.Models;
-using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI.Services;
+using Microsoft.EntityFrameworkCore;
 using SendGrid.Extensions.DependencyInjection;
 
 namespace Edu_Store
@@ -12,6 +12,11 @@ namespace Edu_Store
         public static void Main( string[ ] args )
         {
             var builder = WebApplication.CreateBuilder( args );
+
+            #region ILogger service
+            builder.Logging.ClearProviders( );
+            builder.Logging.AddConsole( );
+            #endregion
 
             // Add services to the container.
             #region MVC Service
@@ -23,22 +28,41 @@ namespace Edu_Store
                 options.ClientSecret = "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";
                 options.CorrelationCookie.SameSite = SameSiteMode.Unspecified;
 
-            });
+            } );
             //.AddFacebook(options =>
             //{
             //    options.AppId = "611643087536377";
             //    options.AppSecret = "7fdb754495764c6c8f7e84b180d42a22";
             //})
             // builder.Services.AddScoped<TeacherManager>( );
+
             builder.Services.AddScoped<CourseManager>( );
-            builder.Services.AddScoped<CartManager>( );
-         builder.Services.AddTransient<IEmailSender, EmailSender>();
-            builder.Services.Configure<SendGridSettings>(builder.Configuration.GetSection("SendGridSettings"));
-            builder.Services.AddSendGrid(Option => {
-                Option.ApiKey = builder.Configuration.GetSection("SendGridSettings").GetValue<string>("ApiKey");
-                
-                
-                });
+
+  builder.Services.AddScoped<CartManager>( );
+            builder.Services.AddScoped<CourseModulesManager>( );
+            builder.Services.AddScoped<ModuleLecturesManager>( );
+            builder.Services.AddTransient<IEmailSender , EmailSender>( );
+            builder.Services.Configure<SendGridSettings>( builder.Configuration.GetSection( "SendGridSettings" ) );
+            builder.Services.AddSendGrid( Option =>
+            {
+                Option.ApiKey = builder.Configuration.GetSection( "SendGridSettings" ).GetValue<string>( "ApiKey" );
+
+
+            } );
+
+            #endregion
+
+            #region SendGrid SMTP(Email Confirmaiton)
+            builder.Services.AddScoped<CourseManager>( );
+            builder.Services.AddTransient<IEmailSender , EmailSender>( );
+            builder.Services.Configure<SendGridSettings>( builder.Configuration.GetSection( "SendGridSettings" ) );
+            builder.Services.AddSendGrid( Option =>
+            {
+                Option.ApiKey = builder.Configuration.GetSection( "SendGridSettings" ).GetValue<string>( "ApiKey" );
+
+
+            } );
+
             #endregion
 
             #region Default DbContext service
@@ -46,9 +70,9 @@ namespace Edu_Store
             builder.Services.AddDbContext<ApplicationDbContext>( options =>
                 options.UseSqlServer( connectionString ) );
 
-            builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true).
-                AddRoles<IdentityRole>()
-              .AddEntityFrameworkStores<ApplicationDbContext>();
+            builder.Services.AddDefaultIdentity<ApplicationUser>( options => options.SignIn.RequireConfirmedAccount = true ).
+                AddRoles<IdentityRole>( )
+              .AddEntityFrameworkStores<ApplicationDbContext>( );
 
             builder.Services.AddDatabaseDeveloperPageExceptionFilter( );
 
@@ -60,6 +84,8 @@ namespace Edu_Store
             builder.Services.AddIdentityCore<ApplicationUser>( options => options.SignIn.RequireConfirmedAccount = true )
         .AddEntityFrameworkStores<ApplicationDbContext>( );
             #endregion
+            //GetCurrent User id service
+            builder.Services.AddHttpContextAccessor( );
 
             var app = builder.Build( );
 
@@ -82,7 +108,7 @@ namespace Edu_Store
                 name: "default" ,
                 pattern: "{controller=Home}/{action=Index}/{id?}" );
             app.MapRazorPages( );
-            app.UseEndpoints(endpoint=>endpoint.MapRazorPages( ) ); 
+            app.UseEndpoints( endpoint => endpoint.MapRazorPages( ) );
 
             app.Run( );
 

@@ -13,33 +13,33 @@ namespace Edu_Store.Models
 
         protected override void OnModelCreating( ModelBuilder builder )
         {
-         
+
             builder.Entity<StudentCourse>( entity =>
             {
                 entity.HasKey( s => new { s.StudentId , s.CourseID } );
             } );
-            builder.Entity<IdentityRole>().HasData(
-                new IdentityRole()
+            builder.Entity<IdentityRole>( ).HasData(
+                new IdentityRole( )
                 {
-                    Id=Guid.NewGuid().ToString(),   
-                    Name="Student",
-                    NormalizedName="student",
-                    ConcurrencyStamp= Guid.NewGuid().ToString()
+                    Id = Guid.NewGuid( ).ToString( ) ,
+                    Name = "Student" ,
+                    NormalizedName = "student" ,
+                    ConcurrencyStamp = Guid.NewGuid( ).ToString( )
                 }
-                
+
                 );
 
-            builder.Entity<IdentityRole>().HasData(
-                new IdentityRole()
-        {
-            Id = Guid.NewGuid().ToString(),   
-                    Name = "Teacher",
-                    NormalizedName = "teacher",
-                    ConcurrencyStamp = Guid.NewGuid().ToString()
+            builder.Entity<IdentityRole>( ).HasData(
+                new IdentityRole( )
+                {
+                    Id = Guid.NewGuid( ).ToString( ) ,
+                    Name = "Teacher" ,
+                    NormalizedName = "teacher" ,
+                    ConcurrencyStamp = Guid.NewGuid( ).ToString( )
                 }
-                
+
                 );
-            base.OnModelCreating(builder);
+            base.OnModelCreating( builder );
         }
 
         public DbSet<Course> Courses { get; set; }
