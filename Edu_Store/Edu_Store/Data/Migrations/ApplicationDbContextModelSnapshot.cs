@@ -196,8 +196,10 @@ namespace Edu_Store.Data.Migrations
                         },
                         new
                         {
+
                             Id = "f6e25cd1-9f62-4647-9cb4-a1644cb9f647",
                             ConcurrencyStamp = "18ef4c6b-cade-4213-89d5-30d6a12e8965",
+
                             Name = "Teacher",
                             NormalizedName = "teacher"
                         });

@@ -35,7 +35,7 @@
             <div class="center col-12 col-sm-6 col-md-6 col-lg-4">
                 <div class="single-courses">
                     <div class="courses_banner_wrapper">
-                            <div class="courses_banner"> <a asp-action="Details" asp-route-id="@item.CourseID"><img src=@item.image alt="" asp-append-version="true" class="img-fluid"></a>
+                            <div class="courses_banner"> <a asp-controller="Course" asp-action="Details" asp-route-id="@item.CourseID"><img src=@item.image alt="" asp-append-version="true" class="img-fluid"></a>
 
     </div>
                         <div class="purchase_price">
@@ -44,15 +44,16 @@
                     </div>
                     <div class="courses_info_wrapper">
                         <div class="courses_title">
-                            <h3><a href="#">@item.Title</a></h3>
-                    <div class="teachers_name">Teacher - <a href="#" title="">@*@item.Teacher.Name*@</a></div>
+                                <h3><a asp-controller="Course" asp-action="Details" asp-route-id="@item.CourseID">@item.Title</a></h3>
+                    <div class="teachers_name">Teacher - <a title="">@*@item.Teacher.Name*@</a></div>
                         </div>
                         <div class="courses_info">
                             <ul class="list-unstyled">
                                 <li><i class="fa fa-user"></i> @item.Duration Days</li>
                                 
                             </ul>
-                            <a href="#" class="cart_btn">Add to Cart</a>
+                                <a asp-controller="Course" asp-action="Details" asp-route-id="@item.CourseID" class="cart_btn">View Details</a>
+                                
                         </div>
                     </div>
                 </div><!-- Ends: .single courses -->

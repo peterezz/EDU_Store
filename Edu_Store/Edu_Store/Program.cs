@@ -37,6 +37,8 @@ namespace Edu_Store
             // builder.Services.AddScoped<TeacherManager>( );
 
             builder.Services.AddScoped<CourseManager>( );
+
+  builder.Services.AddScoped<CartManager>( );
             builder.Services.AddScoped<CourseModulesManager>( );
             builder.Services.AddScoped<ModuleLecturesManager>( );
             builder.Services.AddTransient<IEmailSender , EmailSender>( );
@@ -60,6 +62,7 @@ namespace Edu_Store
 
 
             } );
+
             #endregion
 
             #region Default DbContext service
