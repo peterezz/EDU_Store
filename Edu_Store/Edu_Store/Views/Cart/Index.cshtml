@@ -9,12 +9,16 @@
 @*<p>
     <a asp-action="Create">Create New</a>
 </p>*@
+<div class="container">
 <table class="table">
     <thead>
         <tr>
             <th style="color:#111b51;">
                 @Html.DisplayNameFor(model => model.Course)
             </th>
+                <th style="color:#111b51;">
+                    ACTIONS
+                    </th>
         </tr>
     </thead>
     <tbody>
@@ -32,7 +36,7 @@
 
     </tbody>
 </table>
-
+</div>
 <form method="post" asp-controller="" asp-action="">
-    <input type="submit" value="Buy Now" style="background:#ff5a2c;font-weight:500;color:white;font-size:12px;height:36px;line-height:36px;width:80px;display:flex;justify-content:center;margin:auto;margin-bottom:10px;" />
+    <input type="submit" value="Get Courses" style="background:#ff5a2c;font-weight:500;color:white;font-size:12px;height:36px;line-height:36px;width:80px;display:flex;justify-content:center;margin:auto;margin-bottom:10px;" />
 </form>
