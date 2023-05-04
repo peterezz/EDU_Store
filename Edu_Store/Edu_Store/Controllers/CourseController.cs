@@ -1,5 +1,7 @@
-﻿using Edu_Store.Managers;
+﻿using Edu_Store.Enums;
+using Edu_Store.Managers;
 using Edu_Store.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 
@@ -125,6 +127,24 @@ namespace Edu_Store.Controllers
             {
                 return View( );
             }
+        }
+        [Authorize( Roles = nameof( Roles.Student ) )]
+        [HttpGet]
+        public IActionResult PreviewCourse( int courseID )
+        {
+            var userId = UserManager.GetUserId( User );
+            var data = CourseManager.PreviewCourse( courseID , userId );
+            if ( data == null )
+                return RedirectToAction( "viewCourses" , "Home" , new { pageNumber = 1 } );
+            return View( data );
+        }
+        [HttpGet]
+        public IActionResult previewlecture( int lecID , int modID )
+        {
+            var lec = CourseManager.PreviewLecture( lecID , modID );
+            if ( lec == null )
+                return RedirectToAction( "viewCourses" , "Home" , new { pageNumber = 1 } );
+            return View( lec );
         }
     }
 }

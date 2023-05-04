@@ -1,0 +1,25 @@
+﻿@model ModuleLecture
+@{
+    ViewData["Title"] = "preview lecture";
+}
+
+
+
+<section class="become_a_instructor">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-md-12 col-lg-12">
+                <div class="video_img wow fadeIn" data-wow-duration="2s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 2s; animation-delay: 0.2s; animation-name: fadeIn;">
+                    <img src="/images/banner/instructor.jpg" alt="" class="img-fluid">
+                    <div class="video_wrapper  wow fadeIn" data-wow-duration="2s" data-wow-delay=".5s" style="visibility: visible; animation-duration: 2s; animation-delay: 0.5s; animation-name: fadeIn;">
+                        <div class="video-play-btn">
+                            <span><a href="@Model.vedioPath" class="video-iframe"><i class="fa fa-play"></i></a></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+

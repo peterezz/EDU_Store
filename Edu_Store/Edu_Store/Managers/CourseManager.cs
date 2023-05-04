@@ -1,6 +1,7 @@
 ﻿using DataAccessLayer.Repository;
 using Edu_Store.Models;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 using System.Security.Claims;
 
 
@@ -74,10 +75,30 @@ namespace Edu_Store.Managers
 
         public void DeleteCourse( Course course , string TeacherUserName )
         {
-            baseRepo.Delete( course.CourseID );
+            //baseRepo.Delete( course.CourseID );
             FolderManager.DeleteDirectory( TeacherUserName , course.DirectoryName );
         }
+        public void GetCourses( List<StudentCourse> courses )
+        {
+            foreach ( var course in courses )
+            {
+                Context.StudentCourses.Add( course );
+            }
+            //Context.Carts.Remove(new Ca)
+            Context.SaveChanges( );
+        }
+        public StudentCourse PreviewCourse( int courseID , string studentID )
+        {
+            //return 
+            var data = Context.StudentCourses.Include( data => data.Course ).ThenInclude( data => data.Modules ).ThenInclude( data => data.Lectures ).FirstOrDefault( data => data.StudentId.Equals( studentID ) && data.CourseID == courseID );
+            return data;
+        }
 
+        public ModuleLecture PreviewLecture( int lecID , int modID )
+        {
+            var data = Context.Lectures.FirstOrDefault( lec => lec.Id == lecID && lec.ModuleID == modID );
+            return data;
+        }
     }
 }
 

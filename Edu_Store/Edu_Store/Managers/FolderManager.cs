@@ -54,7 +54,7 @@
                 // Check all child Directories and delete files  
                 foreach ( string subfolder in Directory.GetDirectories( directory ) )
                 {
-                    DeleteDirectory( TeacherUserName , courseDirectory , subfolder );
+                    DeleteDirectory( subfolder );
                 }
                 Directory.Delete( directory );
             }
@@ -75,6 +75,20 @@
                     File.Delete( filename );
                 }
                 Directory.Delete( directory );
+            }
+        }
+
+        public static void DeleteDirectory( string _Directory )
+        {
+            // var directory = $"{Directory.GetCurrentDirectory( )}/wwwroot/Courses/{TeacherUserName}/{courseDirectory}/{moduleDirectory}";
+            if ( Directory.Exists( _Directory ) )
+            {
+                // Delete all files from the Directory  
+                foreach ( string filename in Directory.GetFiles( _Directory ) )
+                {
+                    File.Delete( filename );
+                }
+                Directory.Delete( _Directory );
             }
         }
         public static void RenameExistingDirectory( string TeacherUserName , string courseDirectoryName , string oldDirectoryName , string newDirectoryName )
